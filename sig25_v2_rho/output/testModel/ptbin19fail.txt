@@ -1,0 +1,51 @@
+# Datacard for <Channel (ptbin19fail) instance at 0x7f4b1109f810> generated on 2022-04-01 13:00:09.395354
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 2 # number of samples minus 1
+kmax 0 # number of nuisance parameters
+shapes * ptbin19fail testModel.root testModel:ptbin19fail_$PROCESS testModel:ptbin19fail_$PROCESS_$SYSTEMATIC
+bin ptbin19fail
+observation 9.000
+bin      ptbin19fail  ptbin19fail  ptbin19fail
+process        Sig25        TTBar         Data
+process            0            1            2
+rate           0.000        2.918        1.000
+Dataparam_ptbin19_msdbin0 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin1 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin23 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin26 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin27 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin28 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin29 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin30 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin31 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin32 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin33 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin34 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin35 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin36 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin37 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin38 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin39 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin19_msdbin9 extArg testModel.root:testModel

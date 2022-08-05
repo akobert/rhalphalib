@@ -1,0 +1,8 @@
+sig25_v2: standard 3,3
+sig25_v3: widebins 3,3
+sig25_v3_1: widebins 3,3 combine fitting only done in sdm < 140
+sig25_v4: widebins 7,7
+sig25_v4_1: widebins 6,6
+sig25_v4_2: widebins 5,5
+sig25_v4_3: widebins 4,4
+sig25_v5: widebins 3,3 with placeholder WGamma and ZGamma from 75 and 100 GeV signal

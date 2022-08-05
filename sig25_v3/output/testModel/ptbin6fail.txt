@@ -1,0 +1,55 @@
+# Datacard for <Channel (ptbin6fail) instance at 0x7f54a40aa8d0> generated on 2022-05-16 14:42:19.765553
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 2 # number of samples minus 1
+kmax 0 # number of nuisance parameters
+shapes * ptbin6fail testModel.root testModel:ptbin6fail_$PROCESS testModel:ptbin6fail_$PROCESS_$SYSTEMATIC
+bin ptbin6fail
+observation 78165.000
+bin      ptbin6fail  ptbin6fail  ptbin6fail
+process       Sig25       TTBar        Data
+process           0           1           2
+rate        477.239    2000.327       1.000
+Dataparam_ptbin6_msdbin1 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin23 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin26 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin6_msdbin9 extArg testModel.root:testModel
+ptbin6fail_Data_bin0 extArg testModel.root:testModel
+ptbin6fail_Data_bin27 extArg testModel.root:testModel
+ptbin6fail_Data_bin28 extArg testModel.root:testModel
+ptbin6fail_Data_bin29 extArg testModel.root:testModel
+ptbin6fail_Data_bin30 extArg testModel.root:testModel
+ptbin6fail_Data_bin31 extArg testModel.root:testModel
+ptbin6fail_Data_bin32 extArg testModel.root:testModel
+ptbin6fail_Data_bin33 extArg testModel.root:testModel
+ptbin6fail_Data_bin34 extArg testModel.root:testModel
+ptbin6fail_Data_bin35 extArg testModel.root:testModel
+ptbin6fail_Data_bin36 extArg testModel.root:testModel
+ptbin6fail_Data_bin37 extArg testModel.root:testModel
+ptbin6fail_Data_bin38 extArg testModel.root:testModel
+ptbin6fail_Data_bin39 extArg testModel.root:testModel
+tqqeffSF_2018 extArg testModel.root:testModel
+tqqnormSF_2018 extArg testModel.root:testModel
+tqqeffSF_2018_effect_ptbin6fail_TTBar rateParam ptbin6fail TTBar (((1-@0)*0.4816435688820608)+1) tqqeffSF_2018
+tqqnormSF_2018_effect_ptbin6fail_TTBar rateParam ptbin6fail TTBar (1*@0) tqqnormSF_2018
