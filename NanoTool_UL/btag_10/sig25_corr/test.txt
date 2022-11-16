@@ -1,0 +1,3416 @@
+Starting Run
+ptbin #0
+Type: pass prefit ptbin0
+Bin: 2
+Data: 334.0
+Background: 311.849761963
+Data Error: 8.27415366348
+Data-Background: 22.1502380371
+(Data-Background)/Error: 2.6770397237
+Bin: 3
+Data: 241.199996948
+Background: 202.601013184
+Data Error: 7.04671212989
+Data-Background: 38.5989837646
+(Data-Background)/Error: 5.47758771086
+Bin: 4
+Data: 145.199996948
+Background: 146.629821777
+Data Error: 5.49044063291
+Data-Background: -1.4298248291
+(Data-Background)/Error: -0.260420779442
+Bin: 5
+Data: 108.400001526
+Background: 117.469230652
+Data Error: 4.75799084789
+Data-Background: -9.06922912598
+(Data-Background)/Error: -1.90610478581
+Bin: 6
+Data: 101.599998474
+Background: 103.694473267
+Data Error: 4.6096436256
+Data-Background: -2.09447479248
+(Data-Background)/Error: -0.454368051545
+Bin: 7
+Data: 88.8000030518
+Background: 80.3054428101
+Data Error: 4.31626619965
+Data-Background: 8.4945602417
+(Data-Background)/Error: 1.96803437248
+Bin: 8
+Data: 54.4000015259
+Background: 58.9070701599
+Data Error: 3.40105505247
+Data-Background: -4.50706863403
+(Data-Background)/Error: -1.32519720043
+Bin: 9
+Data: 44.2000007629
+Background: 40.9729499817
+Data Error: 3.07607062717
+Data-Background: 3.22705078125
+(Data-Background)/Error: 1.0490821481
+Type: pass fit_b ptbin0
+Bin: 2
+Data: 334.0
+Background: 339.518615723
+Data Error: 8.27415366348
+Data-Background: -5.51861572266
+(Data-Background)/Error: -0.666970417412
+Bin: 3
+Data: 241.199996948
+Background: 238.245422363
+Data Error: 7.04671212989
+Data-Background: 2.95457458496
+(Data-Background)/Error: 0.41928413287
+Bin: 4
+Data: 145.199996948
+Background: 157.567733765
+Data Error: 5.49044063291
+Data-Background: -12.3677368164
+(Data-Background)/Error: -2.25259458089
+Bin: 5
+Data: 108.400001526
+Background: 118.039764404
+Data Error: 4.75799084789
+Data-Background: -9.63976287842
+(Data-Background)/Error: -2.02601543101
+Bin: 6
+Data: 101.599998474
+Background: 102.392280579
+Data Error: 4.6096436256
+Data-Background: -0.792282104492
+(Data-Background)/Error: -0.171874914601
+Bin: 7
+Data: 88.8000030518
+Background: 81.3735427856
+Data Error: 4.31626619965
+Data-Background: 7.42646026611
+(Data-Background)/Error: 1.72057512734
+Bin: 8
+Data: 54.4000015259
+Background: 61.4295158386
+Data Error: 3.40105505247
+Data-Background: -7.02951431274
+(Data-Background)/Error: -2.06686284235
+Bin: 9
+Data: 44.2000007629
+Background: 46.2343254089
+Data Error: 3.07607062717
+Data-Background: -2.034324646
+(Data-Background)/Error: -0.661338731312
+ptbin #1
+Type: pass prefit ptbin1
+Bin: 2
+Data: 651.0
+Background: 618.60925293
+Data Error: 11.5112555745
+Data-Background: 32.3907470703
+(Data-Background)/Error: 2.81383267538
+Bin: 3
+Data: 399.600006104
+Background: 327.042449951
+Data Error: 9.04073698062
+Data-Background: 72.5575561523
+(Data-Background)/Error: 8.02562405122
+Bin: 4
+Data: 258.799987793
+Background: 231.979141235
+Data Error: 7.29561008628
+Data-Background: 26.8208465576
+(Data-Background)/Error: 3.67629934172
+Bin: 5
+Data: 203.0
+Background: 176.961746216
+Data Error: 6.47313283683
+Data-Background: 26.0382537842
+(Data-Background)/Error: 4.02251188729
+Bin: 6
+Data: 161.0
+Background: 163.14491272
+Data Error: 5.77598811413
+Data-Background: -2.14491271973
+(Data-Background)/Error: -0.371349919242
+Bin: 7
+Data: 140.399993896
+Background: 140.512115479
+Data Error: 5.40064649776
+Data-Background: -0.112121582031
+(Data-Background)/Error: -0.0207607704148
+Bin: 8
+Data: 129.800003052
+Background: 110.00075531
+Data Error: 5.19675001151
+Data-Background: 19.7992477417
+(Data-Background)/Error: 3.80992883972
+Bin: 9
+Data: 85.8000030518
+Background: 84.7124633789
+Data Error: 4.24450294536
+Data-Background: 1.08753967285
+(Data-Background)/Error: 0.256223092987
+Bin: 10
+Data: 64.0
+Background: 56.7752494812
+Data Error: 3.68007564278
+Data-Background: 7.2247505188
+(Data-Background)/Error: 1.96320706967
+Type: pass fit_b ptbin1
+Bin: 2
+Data: 651.0
+Background: 651.009399414
+Data Error: 11.5112555745
+Data-Background: -0.0093994140625
+(Data-Background)/Error: -0.000816541167176
+Bin: 3
+Data: 399.600006104
+Background: 379.353637695
+Data Error: 9.04073698062
+Data-Background: 20.2463684082
+(Data-Background)/Error: 2.23945995239
+Bin: 4
+Data: 258.799987793
+Background: 251.464736938
+Data Error: 7.29561008628
+Data-Background: 7.33525085449
+(Data-Background)/Error: 1.00543350971
+Bin: 5
+Data: 203.0
+Background: 180.607452393
+Data Error: 6.47313283683
+Data-Background: 22.3925476074
+(Data-Background)/Error: 3.45930605348
+Bin: 6
+Data: 161.0
+Background: 157.618331909
+Data Error: 5.77598811413
+Data-Background: 3.38166809082
+(Data-Background)/Error: 0.58547005707
+Bin: 7
+Data: 140.399993896
+Background: 134.332611084
+Data Error: 5.40064649776
+Data-Background: 6.0673828125
+(Data-Background)/Error: 1.12345490767
+Bin: 8
+Data: 129.800003052
+Background: 108.338142395
+Data Error: 5.19675001151
+Data-Background: 21.4618606567
+(Data-Background)/Error: 4.12986205016
+Bin: 9
+Data: 85.8000030518
+Background: 84.7586135864
+Data Error: 4.24450294536
+Data-Background: 1.04138946533
+(Data-Background)/Error: 0.245350157306
+Bin: 10
+Data: 64.0
+Background: 60.0781898499
+Data Error: 3.68007564278
+Data-Background: 3.92181015015
+(Data-Background)/Error: 1.06568737462
+ptbin #2
+Type: pass prefit ptbin2
+Bin: 2
+Data: 598.200012207
+Background: 582.9765625
+Data Error: 11.0387731277
+Data-Background: 15.223449707
+(Data-Background)/Error: 1.37908891965
+Bin: 3
+Data: 327.799987793
+Background: 292.736968994
+Data Error: 8.19794969421
+Data-Background: 35.0630187988
+(Data-Background)/Error: 4.27704732362
+Bin: 4
+Data: 197.800003052
+Background: 212.456680298
+Data Error: 6.39101137881
+Data-Background: -14.6566772461
+(Data-Background)/Error: -2.29332673303
+Bin: 5
+Data: 156.399993896
+Background: 156.220870972
+Data Error: 5.69435819302
+Data-Background: 0.179122924805
+(Data-Background)/Error: 0.0314562095908
+Bin: 6
+Data: 123.400001526
+Background: 136.474090576
+Data Error: 5.06959410708
+Data-Background: -13.0740890503
+(Data-Background)/Error: -2.57892225179
+Bin: 7
+Data: 119.0
+Background: 125.097434998
+Data Error: 4.98025298419
+Data-Background: -6.09743499756
+(Data-Background)/Error: -1.22432234204
+Bin: 8
+Data: 93.0
+Background: 111.770584106
+Data Error: 4.41473004889
+Data-Background: -18.7705841064
+(Data-Background)/Error: -4.25180790186
+Bin: 9
+Data: 81.4000015259
+Background: 88.2190246582
+Data Error: 4.13694326422
+Data-Background: -6.81902313232
+(Data-Background)/Error: -1.64832406364
+Bin: 10
+Data: 56.0
+Background: 70.7739105225
+Data Error: 3.44917306979
+Data-Background: -14.7739105225
+(Data-Background)/Error: -4.28331957358
+Bin: 11
+Data: 47.5999984741
+Background: 50.1274452209
+Data Error: 3.18820087094
+Data-Background: -2.52744674683
+(Data-Background)/Error: -0.792750158831
+Type: pass fit_b ptbin2
+Bin: 2
+Data: 598.200012207
+Background: 600.006225586
+Data Error: 11.0387731277
+Data-Background: -1.80621337891
+(Data-Background)/Error: -0.163624467865
+Bin: 3
+Data: 327.799987793
+Background: 330.694122314
+Data Error: 8.19794969421
+Data-Background: -2.89413452148
+(Data-Background)/Error: -0.353031505369
+Bin: 4
+Data: 197.800003052
+Background: 225.867156982
+Data Error: 6.39101137881
+Data-Background: -28.0671539307
+(Data-Background)/Error: -4.39166076651
+Bin: 5
+Data: 156.399993896
+Background: 158.274108887
+Data Error: 5.69435819302
+Data-Background: -1.87411499023
+(Data-Background)/Error: -0.329117861348
+Bin: 6
+Data: 123.400001526
+Background: 131.377029419
+Data Error: 5.06959410708
+Data-Background: -7.97702789307
+(Data-Background)/Error: -1.57350425391
+Bin: 7
+Data: 119.0
+Background: 118.404747009
+Data Error: 4.98025298419
+Data-Background: 0.595252990723
+(Data-Background)/Error: 0.119522641242
+Bin: 8
+Data: 93.0
+Background: 104.262413025
+Data Error: 4.41473004889
+Data-Background: -11.2624130249
+(Data-Background)/Error: -2.55109891209
+Bin: 9
+Data: 81.4000015259
+Background: 84.2107696533
+Data Error: 4.13694326422
+Data-Background: -2.81076812744
+(Data-Background)/Error: -0.679431151922
+Bin: 10
+Data: 56.0
+Background: 68.4561309814
+Data Error: 3.44917306979
+Data-Background: -12.4561309814
+(Data-Background)/Error: -3.61133834964
+Bin: 11
+Data: 47.5999984741
+Background: 51.0825958252
+Data Error: 3.18820087094
+Data-Background: -3.48259735107
+(Data-Background)/Error: -1.09233937636
+ptbin #3
+Type: pass prefit ptbin3
+Bin: 2
+Data: 564.799987793
+Background: 555.904541016
+Data Error: 10.7290526473
+Data-Background: 8.89544677734
+(Data-Background)/Error: 0.829098995945
+Bin: 3
+Data: 325.0
+Background: 294.305541992
+Data Error: 8.16329893863
+Data-Background: 30.6944580078
+(Data-Background)/Error: 3.7600556146
+Bin: 4
+Data: 214.800003052
+Background: 211.013702393
+Data Error: 6.65567066453
+Data-Background: 3.78630065918
+(Data-Background)/Error: 0.568883415365
+Bin: 5
+Data: 143.199996948
+Background: 161.043365479
+Data Error: 5.45320945606
+Data-Background: -17.8433685303
+(Data-Background)/Error: -3.27208567249
+Bin: 6
+Data: 135.800003052
+Background: 128.586013794
+Data Error: 5.31314266003
+Data-Background: 7.21398925781
+(Data-Background)/Error: 1.35776313933
+Bin: 7
+Data: 102.0
+Background: 120.388809204
+Data Error: 4.61850475332
+Data-Background: -18.3888092041
+(Data-Background)/Error: -3.9815503472
+Bin: 8
+Data: 97.1999969482
+Background: 111.998199463
+Data Error: 4.51099653882
+Data-Background: -14.7982025146
+(Data-Background)/Error: -3.28047303679
+Bin: 9
+Data: 87.5999984741
+Background: 94.6162948608
+Data Error: 4.28770847135
+Data-Background: -7.01629638672
+(Data-Background)/Error: -1.63637440222
+Bin: 10
+Data: 76.8000030518
+Background: 78.3199462891
+Data Error: 4.02134135439
+Data-Background: -1.5199432373
+(Data-Background)/Error: -0.377969215582
+Bin: 11
+Data: 54.5999984741
+Background: 63.958152771
+Data Error: 3.40710809068
+Data-Background: -9.35815429688
+(Data-Background)/Error: -2.74665612238
+Bin: 12
+Data: 50.5999984741
+Background: 48.2876358032
+Data Error: 3.28386168533
+Data-Background: 2.3123626709
+(Data-Background)/Error: 0.704159581761
+Bin: 13
+Data: 21.2000007629
+Background: 18.7880725861
+Data Error: 2.16328340614
+Data-Background: 2.41192817688
+(Data-Background)/Error: 1.11493860214
+Type: pass fit_b ptbin3
+Bin: 2
+Data: 564.799987793
+Background: 570.402648926
+Data Error: 10.7290526473
+Data-Background: -5.60266113281
+(Data-Background)/Error: -0.522195324878
+Bin: 3
+Data: 325.0
+Background: 328.113800049
+Data Error: 8.16329893863
+Data-Background: -3.11380004883
+(Data-Background)/Error: -0.38143893446
+Bin: 4
+Data: 214.800003052
+Background: 225.981185913
+Data Error: 6.65567066453
+Data-Background: -11.1811828613
+(Data-Background)/Error: -1.67994833652
+Bin: 5
+Data: 143.199996948
+Background: 162.958175659
+Data Error: 5.45320945606
+Data-Background: -19.7581787109
+(Data-Background)/Error: -3.62322021007
+Bin: 6
+Data: 135.800003052
+Background: 127.88874054
+Data Error: 5.31314266003
+Data-Background: 7.91126251221
+(Data-Background)/Error: 1.48899869972
+Bin: 7
+Data: 102.0
+Background: 114.998947144
+Data Error: 4.61850475332
+Data-Background: -12.9989471436
+(Data-Background)/Error: -2.81453583743
+Bin: 8
+Data: 97.1999969482
+Background: 106.772155762
+Data Error: 4.51099653882
+Data-Background: -9.57215881348
+(Data-Background)/Error: -2.12196101928
+Bin: 9
+Data: 87.5999984741
+Background: 91.569694519
+Data Error: 4.28770847135
+Data-Background: -3.96969604492
+(Data-Background)/Error: -0.925831611791
+Bin: 10
+Data: 76.8000030518
+Background: 77.8021850586
+Data Error: 4.02134135439
+Data-Background: -1.00218200684
+(Data-Background)/Error: -0.249215850761
+Bin: 11
+Data: 54.5999984741
+Background: 64.6175842285
+Data Error: 3.40710809068
+Data-Background: -10.0175857544
+(Data-Background)/Error: -2.94020192133
+Bin: 12
+Data: 50.5999984741
+Background: 51.5623168945
+Data Error: 3.28386168533
+Data-Background: -0.96231842041
+(Data-Background)/Error: -0.293044748112
+Bin: 13
+Data: 21.2000007629
+Background: 21.0632209778
+Data Error: 2.16328340614
+Data-Background: 0.136779785156
+(Data-Background)/Error: 0.0632278622247
+ptbin #4
+Type: pass prefit ptbin4
+Bin: 2
+Data: 333.600006104
+Background: 312.98260498
+Data Error: 8.26925872931
+Data-Background: 20.617401123
+(Data-Background)/Error: 2.4932586823
+Bin: 3
+Data: 248.199996948
+Background: 197.097351074
+Data Error: 7.14675864522
+Data-Background: 51.102645874
+(Data-Background)/Error: 7.15046476464
+Bin: 4
+Data: 180.399993896
+Background: 140.879180908
+Data Error: 6.10806387443
+Data-Background: 39.5208129883
+(Data-Background)/Error: 6.4702684518
+Bin: 5
+Data: 122.0
+Background: 107.338691711
+Data Error: 5.04134260235
+Data-Background: 14.6613082886
+(Data-Background)/Error: 2.90821502227
+Bin: 6
+Data: 103.599998474
+Background: 88.2008285522
+Data Error: 4.65377684274
+Data-Background: 15.3991699219
+(Data-Background)/Error: 3.30896182654
+Bin: 7
+Data: 88.1999969482
+Background: 78.6525497437
+Data Error: 4.30201159562
+Data-Background: 9.54744720459
+(Data-Background)/Error: 2.21929834274
+Bin: 8
+Data: 81.1999969482
+Background: 70.069694519
+Data Error: 4.1319860137
+Data-Background: 11.1303024292
+(Data-Background)/Error: 2.69369315198
+Bin: 9
+Data: 73.5999984741
+Background: 64.1592636108
+Data Error: 3.93887006029
+Data-Background: 9.44073486328
+(Data-Background)/Error: 2.39681297397
+Bin: 10
+Data: 57.5999984741
+Background: 55.6997337341
+Data Error: 3.496609518
+Data-Background: 1.90026473999
+(Data-Background)/Error: 0.543459236786
+Bin: 11
+Data: 63.4000015259
+Background: 45.1516227722
+Data Error: 3.66327698672
+Data-Background: 18.2483787537
+(Data-Background)/Error: 4.98143569809
+Bin: 12
+Data: 45.5999984741
+Background: 36.6253242493
+Data Error: 3.12274566896
+Data-Background: 8.97467422485
+(Data-Background)/Error: 2.87396899276
+Bin: 13
+Data: 44.5999984741
+Background: 29.0289592743
+Data Error: 3.08948071177
+Data-Background: 15.5710391998
+(Data-Background)/Error: 5.04001825955
+Bin: 14
+Data: 28.3999996185
+Background: 18.1637191772
+Data Error: 2.48685481595
+Data-Background: 10.2362804413
+(Data-Background)/Error: 4.11615522372
+Type: pass fit_b ptbin4
+Bin: 2
+Data: 333.600006104
+Background: 327.147277832
+Data Error: 8.26925872931
+Data-Background: 6.45272827148
+(Data-Background)/Error: 0.780327292047
+Bin: 3
+Data: 248.199996948
+Background: 222.887680054
+Data Error: 7.14675864522
+Data-Background: 25.3123168945
+(Data-Background)/Error: 3.54178980306
+Bin: 4
+Data: 180.399993896
+Background: 155.102722168
+Data Error: 6.10806387443
+Data-Background: 25.2972717285
+(Data-Background)/Error: 4.14161872708
+Bin: 5
+Data: 122.0
+Background: 112.452560425
+Data Error: 5.04134260235
+Data-Background: 9.5474395752
+(Data-Background)/Error: 1.89382875323
+Bin: 6
+Data: 103.599998474
+Background: 90.4468841553
+Data Error: 4.65377684274
+Data-Background: 13.1531143188
+(Data-Background)/Error: 2.82633112057
+Bin: 7
+Data: 88.1999969482
+Background: 79.303237915
+Data Error: 4.30201159562
+Data-Background: 8.8967590332
+(Data-Background)/Error: 2.06804626986
+Bin: 8
+Data: 81.1999969482
+Background: 71.0353851318
+Data Error: 4.1319860137
+Data-Background: 10.1646118164
+(Data-Background)/Error: 2.45998214483
+Bin: 9
+Data: 73.5999984741
+Background: 65.8739242554
+Data Error: 3.93887006029
+Data-Background: 7.72607421875
+(Data-Background)/Error: 1.96149507359
+Bin: 10
+Data: 57.5999984741
+Background: 57.9674034119
+Data Error: 3.496609518
+Data-Background: -0.367404937744
+(Data-Background)/Error: -0.105074626107
+Bin: 11
+Data: 63.4000015259
+Background: 50.2250289917
+Data Error: 3.66327698672
+Data-Background: 13.1749725342
+(Data-Background)/Error: 3.59649914051
+Bin: 12
+Data: 45.5999984741
+Background: 41.7708587646
+Data Error: 3.12274566896
+Data-Background: 3.82913970947
+(Data-Background)/Error: 1.22620927716
+Bin: 13
+Data: 44.5999984741
+Background: 35.5030555725
+Data Error: 3.08948071177
+Data-Background: 9.09694290161
+(Data-Background)/Error: 2.94448930105
+Bin: 14
+Data: 28.3999996185
+Background: 23.3263683319
+Data Error: 2.48685481595
+Data-Background: 5.07363128662
+(Data-Background)/Error: 2.04017993093
+ptbin #5
+Type: pass prefit ptbin5
+Bin: 2
+Data: 319.799987793
+Background: 298.731781006
+Data Error: 8.09854929121
+Data-Background: 21.0682067871
+(Data-Background)/Error: 2.60147910811
+Bin: 3
+Data: 274.0
+Background: 257.390228271
+Data Error: 7.50383688799
+Data-Background: 16.6097717285
+(Data-Background)/Error: 2.21350383497
+Bin: 4
+Data: 196.199996948
+Background: 188.128707886
+Data Error: 6.36552669801
+Data-Background: 8.0712890625
+(Data-Background)/Error: 1.26796877076
+Bin: 5
+Data: 147.600006104
+Background: 152.080093384
+Data Error: 5.53478138792
+Data-Background: -4.48008728027
+(Data-Background)/Error: -0.8094424994
+Bin: 6
+Data: 121.800003052
+Background: 122.649398804
+Data Error: 5.0372934768
+Data-Background: -0.849395751953
+(Data-Background)/Error: -0.168621454332
+Bin: 7
+Data: 110.400001526
+Background: 101.751976013
+Data Error: 4.80073152109
+Data-Background: 8.6480255127
+(Data-Background)/Error: 1.80139744843
+Bin: 8
+Data: 101.400001526
+Background: 89.3636245728
+Data Error: 4.60520652611
+Data-Background: 12.0363769531
+(Data-Background)/Error: 2.61364542174
+Bin: 9
+Data: 74.4000015259
+Background: 81.6799545288
+Data Error: 3.9596530903
+Data-Background: -7.27995300293
+(Data-Background)/Error: -1.83853303229
+Bin: 10
+Data: 76.8000030518
+Background: 72.7638549805
+Data Error: 4.02134135439
+Data-Background: 4.03614807129
+(Data-Background)/Error: 1.00368203433
+Bin: 11
+Data: 75.4000015259
+Background: 64.1039810181
+Data Error: 3.9854755571
+Data-Background: 11.2960205078
+(Data-Background)/Error: 2.83429677236
+Bin: 12
+Data: 61.7999992371
+Background: 57.9635429382
+Data Error: 3.61808845488
+Data-Background: 3.83645629883
+(Data-Background)/Error: 1.06035447908
+Bin: 13
+Data: 60.2000007629
+Background: 45.2690353394
+Data Error: 3.57231191072
+Data-Background: 14.9309654236
+(Data-Background)/Error: 4.1796365482
+Bin: 14
+Data: 45.7999992371
+Background: 36.1690788269
+Data Error: 3.1293548296
+Data-Background: 9.63092041016
+(Data-Background)/Error: 3.0776057477
+Bin: 15
+Data: 38.4000015259
+Background: 29.4927024841
+Data Error: 2.87435035236
+Data-Background: 8.90729904175
+(Data-Background)/Error: 3.09889121013
+Bin: 16
+Data: 29.3999996185
+Background: 18.395357132
+Data Error: 2.52838816287
+Data-Background: 11.0046424866
+(Data-Background)/Error: 4.35243395305
+Bin: 17
+Data: 19.7999992371
+Background: 9.76486110687
+Data Error: 2.09428039588
+Data-Background: 10.0351381302
+(Data-Background)/Error: 4.79168794681
+Type: pass fit_b ptbin5
+Bin: 2
+Data: 319.799987793
+Background: 316.841461182
+Data Error: 8.09854929121
+Data-Background: 2.95852661133
+(Data-Background)/Error: 0.365315626904
+Bin: 3
+Data: 274.0
+Background: 290.004272461
+Data Error: 7.50383688799
+Data-Background: -16.0042724609
+(Data-Background)/Error: -2.13281188009
+Bin: 4
+Data: 196.199996948
+Background: 205.214920044
+Data Error: 6.36552669801
+Data-Background: -9.0149230957
+(Data-Background)/Error: -1.41621008337
+Bin: 5
+Data: 147.600006104
+Background: 159.423980713
+Data Error: 5.53478138792
+Data-Background: -11.8239746094
+(Data-Background)/Error: -2.13630381774
+Bin: 6
+Data: 121.800003052
+Background: 126.349273682
+Data Error: 5.0372934768
+Data-Background: -4.54927062988
+(Data-Background)/Error: -0.903118043616
+Bin: 7
+Data: 110.400001526
+Background: 105.265129089
+Data Error: 4.80073152109
+Data-Background: 5.13487243652
+(Data-Background)/Error: 1.06960208334
+Bin: 8
+Data: 101.400001526
+Background: 93.7320175171
+Data Error: 4.60520652611
+Data-Background: 7.66798400879
+(Data-Background)/Error: 1.66506843185
+Bin: 9
+Data: 74.4000015259
+Background: 85.7129592896
+Data Error: 3.9596530903
+Data-Background: -11.3129577637
+(Data-Background)/Error: -2.85705780423
+Bin: 10
+Data: 76.8000030518
+Background: 79.9984283447
+Data Error: 4.02134135439
+Data-Background: -3.19842529297
+(Data-Background)/Error: -0.795362793432
+Bin: 11
+Data: 75.4000015259
+Background: 74.3406600952
+Data Error: 3.9854755571
+Data-Background: 1.05934143066
+(Data-Background)/Error: 0.265800508744
+Bin: 12
+Data: 61.7999992371
+Background: 70.12474823
+Data Error: 3.61808845488
+Data-Background: -8.32474899292
+(Data-Background)/Error: -2.30086939464
+Bin: 13
+Data: 60.2000007629
+Background: 59.2478942871
+Data Error: 3.57231191072
+Data-Background: 0.95210647583
+(Data-Background)/Error: 0.266523892545
+Bin: 14
+Data: 45.7999992371
+Background: 50.2173042297
+Data Error: 3.1293548296
+Data-Background: -4.41730499268
+(Data-Background)/Error: -1.41157050996
+Bin: 15
+Data: 38.4000015259
+Background: 43.8395576477
+Data Error: 2.87435035236
+Data-Background: -5.43955612183
+(Data-Background)/Error: -1.89244714632
+Bin: 16
+Data: 29.3999996185
+Background: 29.6174659729
+Data Error: 2.52838816287
+Data-Background: -0.21746635437
+(Data-Background)/Error: -0.0860098767918
+Bin: 17
+Data: 19.7999992371
+Background: 16.9433479309
+Data Error: 2.09428039588
+Data-Background: 2.85665130615
+(Data-Background)/Error: 1.36402523357
+ptbin #6
+Type: pass prefit ptbin6
+Bin: 3
+Data: 104.199996948
+Background: 97.2359466553
+Data Error: 4.66693364483
+Data-Background: 6.96405029297
+(Data-Background)/Error: 1.49221112254
+Bin: 4
+Data: 81.5999984741
+Background: 72.4639968872
+Data Error: 4.14189443496
+Data-Background: 9.13600158691
+(Data-Background)/Error: 2.20575433063
+Bin: 5
+Data: 60.4000015259
+Background: 55.814201355
+Data Error: 3.57806692631
+Data-Background: 4.5858001709
+(Data-Background)/Error: 1.28164180977
+Bin: 6
+Data: 51.0
+Background: 49.9471359253
+Data Error: 3.29640016921
+Data-Background: 1.05286407471
+(Data-Background)/Error: 0.319398137563
+Bin: 7
+Data: 49.4000015259
+Background: 42.1512565613
+Data Error: 3.24594642121
+Data-Background: 7.2487449646
+(Data-Background)/Error: 2.23316839651
+Bin: 8
+Data: 39.0
+Background: 35.7127113342
+Data Error: 2.89589291808
+Data-Background: 3.28728866577
+(Data-Background)/Error: 1.13515546284
+Bin: 9
+Data: 35.7999992371
+Background: 32.9329681396
+Data Error: 2.77899835624
+Data-Background: 2.86703109741
+(Data-Background)/Error: 1.0316778673
+Bin: 10
+Data: 33.4000015259
+Background: 29.4363117218
+Data Error: 2.68786491023
+Data-Background: 3.96368980408
+(Data-Background)/Error: 1.47466109215
+Bin: 11
+Data: 28.6000003815
+Background: 28.2255554199
+Data Error: 2.49521909555
+Data-Background: 0.374444961548
+(Data-Background)/Error: 0.150064963119
+Bin: 12
+Data: 26.2000007629
+Background: 25.358253479
+Data Error: 2.39283499127
+Data-Background: 0.841747283936
+(Data-Background)/Error: 0.351778240875
+Bin: 13
+Data: 22.6000003815
+Background: 24.1103229523
+Data Error: 2.2300525816
+Data-Background: -1.5103225708
+(Data-Background)/Error: -0.677258726212
+Bin: 14
+Data: 21.0
+Background: 21.7964572906
+Data Error: 2.15356777037
+Data-Background: -0.796457290649
+(Data-Background)/Error: -0.369831542618
+Bin: 15
+Data: 29.6000003815
+Background: 17.7061595917
+Data Error: 2.53660988713
+Data-Background: 11.8938407898
+(Data-Background)/Error: 4.68887267615
+Bin: 16
+Data: 22.7999992371
+Background: 16.3323993683
+Data Error: 2.23942096096
+Data-Background: 6.46759986877
+(Data-Background)/Error: 2.88806793431
+Bin: 17
+Data: 21.7999992371
+Background: 15.386674881
+Data Error: 2.19215966656
+Data-Background: 6.41332435608
+(Data-Background)/Error: 2.92557355831
+Bin: 18
+Data: 15.3999996185
+Background: 13.0320291519
+Data Error: 1.85989126842
+Data-Background: 2.36797046661
+(Data-Background)/Error: 1.27317682857
+Bin: 19
+Data: 14.1999998093
+Background: 10.6069173813
+Data Error: 1.79033701484
+Data-Background: 3.59308242798
+(Data-Background)/Error: 2.00693076119
+Bin: 20
+Data: 10.3999996185
+Background: 5.69936847687
+Data Error: 1.54821665856
+Data-Background: 4.70063114166
+(Data-Background)/Error: 3.03615848316
+Type: pass fit_b ptbin6
+Bin: 3
+Data: 104.199996948
+Background: 110.567932129
+Data Error: 4.66693364483
+Data-Background: -6.36793518066
+(Data-Background)/Error: -1.36447947738
+Bin: 4
+Data: 81.5999984741
+Background: 82.5456619263
+Data Error: 4.14189443496
+Data-Background: -0.945663452148
+(Data-Background)/Error: -0.228316647611
+Bin: 5
+Data: 60.4000015259
+Background: 61.6465072632
+Data Error: 3.57806692631
+Data-Background: -1.2465057373
+(Data-Background)/Error: -0.348374069847
+Bin: 6
+Data: 51.0
+Background: 53.5003814697
+Data Error: 3.29640016921
+Data-Background: -2.50038146973
+(Data-Background)/Error: -0.758518790614
+Bin: 7
+Data: 49.4000015259
+Background: 45.0439872742
+Data Error: 3.24594642121
+Data-Background: 4.35601425171
+(Data-Background)/Error: 1.34198587606
+Bin: 8
+Data: 39.0
+Background: 37.6117134094
+Data Error: 2.89589291808
+Data-Background: 1.38828659058
+(Data-Background)/Error: 0.479398454932
+Bin: 9
+Data: 35.7999992371
+Background: 34.747428894
+Data Error: 2.77899835624
+Data-Background: 1.05257034302
+(Data-Background)/Error: 0.378758893705
+Bin: 10
+Data: 33.4000015259
+Background: 31.5262145996
+Data Error: 2.68786491023
+Data-Background: 1.87378692627
+(Data-Background)/Error: 0.697128385857
+Bin: 11
+Data: 28.6000003815
+Background: 30.4331226349
+Data Error: 2.49521909555
+Data-Background: -1.83312225342
+(Data-Background)/Error: -0.734653825264
+Bin: 12
+Data: 26.2000007629
+Background: 28.0560379028
+Data Error: 2.39283499127
+Data-Background: -1.85603713989
+(Data-Background)/Error: -0.775664492813
+Bin: 13
+Data: 22.6000003815
+Background: 27.2478847504
+Data Error: 2.2300525816
+Data-Background: -4.6478843689
+(Data-Background)/Error: -2.08420393637
+Bin: 14
+Data: 21.0
+Background: 25.5139789581
+Data Error: 2.15356777037
+Data-Background: -4.51397895813
+(Data-Background)/Error: -2.09604685779
+Bin: 15
+Data: 29.6000003815
+Background: 22.5615539551
+Data Error: 2.53660988713
+Data-Background: 7.03844642639
+(Data-Background)/Error: 2.77474532529
+Bin: 16
+Data: 22.7999992371
+Background: 21.0159034729
+Data Error: 2.23942096096
+Data-Background: 1.78409576416
+(Data-Background)/Error: 0.796677264015
+Bin: 17
+Data: 21.7999992371
+Background: 20.4604434967
+Data Error: 2.19215966656
+Data-Background: 1.33955574036
+(Data-Background)/Error: 0.611066684964
+Bin: 18
+Data: 15.3999996185
+Background: 17.6113052368
+Data Error: 1.85989126842
+Data-Background: -2.21130561829
+(Data-Background)/Error: -1.18894349139
+Bin: 19
+Data: 14.1999998093
+Background: 14.9758090973
+Data Error: 1.79033701484
+Data-Background: -0.775809288025
+(Data-Background)/Error: -0.433331423969
+Bin: 20
+Data: 10.3999996185
+Background: 8.70199203491
+Data Error: 1.54821665856
+Data-Background: 1.69800758362
+(Data-Background)/Error: 1.09675062222
+ptbin #7
+Type: pass prefit ptbin7
+Bin: 3
+Data: 58.7999992371
+Background: 56.2258682251
+Data Error: 3.531756591
+Data-Background: 2.57413101196
+(Data-Background)/Error: 0.728852893917
+Bin: 4
+Data: 54.2000007629
+Background: 41.9081726074
+Data Error: 3.39499089503
+Data-Background: 12.2918281555
+(Data-Background)/Error: 3.62057764971
+Bin: 5
+Data: 35.2000007629
+Background: 32.557258606
+Data Error: 2.7565080884
+Data-Background: 2.64274215698
+(Data-Background)/Error: 0.95872824321
+Bin: 6
+Data: 33.7999992371
+Background: 26.9585208893
+Data Error: 2.70327536041
+Data-Background: 6.84147834778
+(Data-Background)/Error: 2.53081075201
+Bin: 7
+Data: 27.3999996185
+Background: 24.336227417
+Data Error: 2.44458591647
+Data-Background: 3.06377220154
+(Data-Background)/Error: 1.25328882119
+Bin: 8
+Data: 22.3999996185
+Background: 20.7866687775
+Data Error: 2.22064282191
+Data-Background: 1.61333084106
+(Data-Background)/Error: 0.726515234754
+Bin: 9
+Data: 23.7999992371
+Background: 21.2540607452
+Data Error: 2.28566069005
+Data-Background: 2.54593849182
+(Data-Background)/Error: 1.11387420841
+Bin: 10
+Data: 17.7999992371
+Background: 21.0496749878
+Data Error: 1.99134346073
+Data-Background: -3.24967575073
+(Data-Background)/Error: -1.63190118371
+Bin: 11
+Data: 14.6000003815
+Background: 20.4133281708
+Data Error: 1.81383535259
+Data-Background: -5.81332778931
+(Data-Background)/Error: -3.2049919972
+Bin: 12
+Data: 16.6000003815
+Background: 21.9115695953
+Data Error: 1.92679985141
+Data-Background: -5.31156921387
+(Data-Background)/Error: -2.75667927314
+Bin: 13
+Data: 22.0
+Background: 23.6326198578
+Data Error: 2.20169693641
+Data-Background: -1.63261985779
+(Data-Background)/Error: -0.74152796908
+Bin: 14
+Data: 15.1999998093
+Background: 22.6406517029
+Data Error: 1.84849099448
+Data-Background: -7.44065189362
+(Data-Background)/Error: -4.02525731305
+Bin: 15
+Data: 19.3999996185
+Background: 24.0480613708
+Data Error: 2.07412237246
+Data-Background: -4.64806175232
+(Data-Background)/Error: -2.24097758841
+Bin: 16
+Data: 17.6000003815
+Background: 26.0970287323
+Data Error: 1.98073998705
+Data-Background: -8.49702835083
+(Data-Background)/Error: -4.28982522005
+Bin: 17
+Data: 17.7999992371
+Background: 28.1048431396
+Data Error: 1.99134346073
+Data-Background: -10.3048439026
+(Data-Background)/Error: -5.17481996743
+Bin: 18
+Data: 12.8000001907
+Background: 27.0615882874
+Data Error: 1.70538734469
+Data-Background: -14.2615880966
+(Data-Background)/Error: -8.36266795401
+Bin: 19
+Data: 13.6000003815
+Background: 27.1657619476
+Data Error: 1.75446403469
+Data-Background: -13.5657615662
+(Data-Background)/Error: -7.73214001423
+Bin: 20
+Data: 14.3999996185
+Background: 23.2266960144
+Data Error: 1.80212672301
+Data-Background: -8.82669639587
+(Data-Background)/Error: -4.89793324919
+Bin: 21
+Data: 11.8000001907
+Background: 22.4156322479
+Data Error: 1.64184710194
+Data-Background: -10.6156320572
+(Data-Background)/Error: -6.46566421724
+Bin: 22
+Data: 11.8000001907
+Background: 23.2393341064
+Data Error: 1.64184710194
+Data-Background: -11.4393339157
+(Data-Background)/Error: -6.96735640133
+Bin: 23
+Data: 7.19999980927
+Background: 20.1112689972
+Data Error: 1.30725248465
+Data-Background: -12.9112691879
+(Data-Background)/Error: -9.87664536082
+Bin: 24
+Data: 4.19999980927
+Background: 13.4756479263
+Data Error: 1.02611348666
+Data-Background: -9.27564811707
+(Data-Background)/Error: -9.03959283029
+Bin: 25
+Data: 5.40000009537
+Background: 8.66425704956
+Data Error: 1.14765139645
+Data-Background: -3.26425695419
+(Data-Background)/Error: -2.8442931053
+Bin: 26
+Data: 2.79999995232
+Background: 5.7217040062
+Data Error: 0.860194080813
+Data-Background: -2.92170405388
+(Data-Background)/Error: -3.39656377444
+Type: pass fit_b ptbin7
+Bin: 3
+Data: 58.7999992371
+Background: 59.4992294312
+Data Error: 3.531756591
+Data-Background: -0.699230194092
+(Data-Background)/Error: -0.197983687741
+Bin: 4
+Data: 54.2000007629
+Background: 46.6430778503
+Data Error: 3.39499089503
+Data-Background: 7.5569229126
+(Data-Background)/Error: 2.22590373472
+Bin: 5
+Data: 35.2000007629
+Background: 36.8746185303
+Data Error: 2.7565080884
+Data-Background: -1.67461776733
+(Data-Background)/Error: -0.607514185931
+Bin: 6
+Data: 33.7999992371
+Background: 31.3123016357
+Data Error: 2.70327536041
+Data-Background: 2.48769760132
+(Data-Background)/Error: 0.920253126171
+Bin: 7
+Data: 27.3999996185
+Background: 27.4906959534
+Data Error: 2.44458591647
+Data-Background: -0.0906963348389
+(Data-Background)/Error: -0.037100898859
+Bin: 8
+Data: 22.3999996185
+Background: 22.465297699
+Data Error: 2.22064282191
+Data-Background: -0.0652980804443
+(Data-Background)/Error: -0.0294050352448
+Bin: 9
+Data: 23.7999992371
+Background: 21.8066425323
+Data Error: 2.28566069005
+Data-Background: 1.99335670471
+(Data-Background)/Error: 0.872114007729
+Bin: 10
+Data: 17.7999992371
+Background: 19.6787452698
+Data Error: 1.99134346073
+Data-Background: -1.87874603271
+(Data-Background)/Error: -0.943456550698
+Bin: 11
+Data: 14.6000003815
+Background: 17.5238571167
+Data Error: 1.81383535259
+Data-Background: -2.92385673523
+(Data-Background)/Error: -1.61197472034
+Bin: 12
+Data: 16.6000003815
+Background: 17.6079368591
+Data Error: 1.92679985141
+Data-Background: -1.00793647766
+(Data-Background)/Error: -0.523114259597
+Bin: 13
+Data: 22.0
+Background: 18.1547813416
+Data Error: 2.20169693641
+Data-Background: 3.84521865845
+(Data-Background)/Error: 1.7464795426
+Bin: 14
+Data: 15.1999998093
+Background: 15.8181190491
+Data Error: 1.84849099448
+Data-Background: -0.618119239807
+(Data-Background)/Error: -0.334391263823
+Bin: 15
+Data: 19.3999996185
+Background: 16.2991676331
+Data Error: 2.07412237246
+Data-Background: 3.10083198547
+(Data-Background)/Error: 1.49500917913
+Bin: 16
+Data: 17.6000003815
+Background: 16.7790107727
+Data Error: 1.98073998705
+Data-Background: 0.820989608765
+(Data-Background)/Error: 0.414486310233
+Bin: 17
+Data: 17.7999992371
+Background: 17.4458961487
+Data Error: 1.99134346073
+Data-Background: 0.354103088379
+(Data-Background)/Error: 0.1778212023
+Bin: 18
+Data: 12.8000001907
+Background: 15.7881679535
+Data Error: 1.70538734469
+Data-Background: -2.98816776276
+(Data-Background)/Error: -1.75219299713
+Bin: 19
+Data: 13.6000003815
+Background: 15.1257486343
+Data Error: 1.75446403469
+Data-Background: -1.52574825287
+(Data-Background)/Error: -0.869637805449
+Bin: 20
+Data: 14.3999996185
+Background: 12.7247476578
+Data Error: 1.80212672301
+Data-Background: 1.67525196075
+(Data-Background)/Error: 0.929597202776
+Bin: 21
+Data: 11.8000001907
+Background: 11.4162578583
+Data Error: 1.64184710194
+Data-Background: 0.383742332458
+(Data-Background)/Error: 0.233725985815
+Bin: 22
+Data: 11.8000001907
+Background: 11.2000541687
+Data Error: 1.64184710194
+Data-Background: 0.599946022034
+(Data-Background)/Error: 0.365409191468
+Bin: 23
+Data: 7.19999980927
+Background: 8.93033313751
+Data Error: 1.30725248465
+Data-Background: -1.73033332825
+(Data-Background)/Error: -1.32364126178
+Bin: 24
+Data: 4.19999980927
+Background: 5.73643684387
+Data Error: 1.02611348666
+Data-Background: -1.53643703461
+(Data-Background)/Error: -1.49733636151
+Bin: 25
+Data: 5.40000009537
+Background: 3.8909535408
+Data Error: 1.14765139645
+Data-Background: 1.50904655457
+(Data-Background)/Error: 1.31489976768
+Bin: 26
+Data: 2.79999995232
+Background: 2.43562245369
+Data Error: 0.860194080813
+Data-Background: 0.364377498627
+(Data-Background)/Error: 0.423599169948
+ptbin #8
+Type: pass prefit ptbin8
+Bin: 4
+Data: 10.3999996185
+Background: 8.46730327606
+Data Error: 1.54821665856
+Data-Background: 1.93269634247
+(Data-Background)/Error: 1.24833713148
+Bin: 5
+Data: 8.0
+Background: 9.20630836487
+Data Error: 1.37177828013
+Data-Background: -1.20630836487
+(Data-Background)/Error: -0.879375612184
+Bin: 6
+Data: 5.59999990463
+Background: 7.93225193024
+Data Error: 1.16656369577
+Data-Background: -2.3322520256
+(Data-Background)/Error: -1.99924962012
+Bin: 7
+Data: 6.40000009537
+Background: 6.74993991852
+Data Error: 1.23908026833
+Data-Background: -0.349939823151
+(Data-Background)/Error: -0.28241901037
+Bin: 8
+Data: 5.19999980927
+Background: 5.86235380173
+Data Error: 1.12839176152
+Data-Background: -0.662353992462
+(Data-Background)/Error: -0.586989390609
+Bin: 9
+Data: 7.19999980927
+Background: 5.27293729782
+Data Error: 1.30725248465
+Data-Background: 1.92706251144
+(Data-Background)/Error: 1.47413184069
+Bin: 10
+Data: 3.59999990463
+Background: 5.63604545593
+Data Error: 0.958930443961
+Data-Background: -2.0360455513
+(Data-Background)/Error: -2.12324633567
+Bin: 11
+Data: 4.19999980927
+Background: 6.60209703445
+Data Error: 1.02611348666
+Data-Background: -2.40209722519
+(Data-Background)/Error: -2.34096642956
+Bin: 12
+Data: 3.59999990463
+Background: 6.34086322784
+Data Error: 0.958930443961
+Data-Background: -2.74086332321
+(Data-Background)/Error: -2.85825039811
+Bin: 13
+Data: 5.40000009537
+Background: 7.29811763763
+Data Error: 1.14765139645
+Data-Background: -1.89811754227
+(Data-Background)/Error: -1.65391472371
+Bin: 14
+Data: 3.40000009537
+Background: 8.79635334015
+Data Error: 0.935338664382
+Data-Background: -5.39635324478
+(Data-Background)/Error: -5.76941107032
+Bin: 15
+Data: 3.0
+Background: 10.8158597946
+Data Error: 0.88603881138
+Data-Background: -7.81585979462
+(Data-Background)/Error: -8.82112577263
+Bin: 16
+Data: 4.0
+Background: 9.41174316406
+Data Error: 1.00427291554
+Data-Background: -5.41174316406
+(Data-Background)/Error: -5.38871762876
+Bin: 17
+Data: 4.59999990463
+Background: 13.669678688
+Data Error: 1.06832018377
+Data-Background: -9.06967926025
+(Data-Background)/Error: -8.48966386489
+Bin: 18
+Data: 3.40000009537
+Background: 13.3727998734
+Data Error: 0.935338664382
+Data-Background: -9.97279930115
+(Data-Background)/Error: -10.6622335641
+Bin: 19
+Data: 2.40000009537
+Background: 18.8073406219
+Data Error: 0.805679733289
+Data-Background: -16.4073410034
+(Data-Background)/Error: -20.3645944232
+Bin: 20
+Data: 4.19999980927
+Background: 17.3078689575
+Data Error: 1.02611348666
+Data-Background: -13.1078691483
+(Data-Background)/Error: -12.7742879503
+Bin: 21
+Data: 3.40000009537
+Background: 16.9536952972
+Data Error: 0.935338664382
+Data-Background: -13.5536956787
+(Data-Background)/Error: -14.4906825675
+Bin: 22
+Data: 3.59999990463
+Background: 18.720539093
+Data Error: 0.958930443961
+Data-Background: -15.1205387115
+(Data-Background)/Error: -15.7681287593
+Bin: 23
+Data: 1.79999995232
+Background: 19.9068832397
+Data Error: 0.714950920252
+Data-Background: -18.1068840027
+(Data-Background)/Error: -25.3260517468
+Bin: 24
+Data: 2.0
+Background: 20.0560245514
+Data Error: 0.746603527535
+Data-Background: -18.0560245514
+(Data-Background)/Error: -24.1842207885
+Bin: 25
+Data: 1.0
+Background: 23.6342735291
+Data Error: 0.56754536513
+Data-Background: -22.6342735291
+(Data-Background)/Error: -39.880994401
+Bin: 26
+Data: 2.20000004768
+Background: 18.5988616943
+Data Error: 0.776783912557
+Data-Background: -16.3988609314
+(Data-Background)/Error: -21.1112262578
+Bin: 27
+Data: 1.39999997616
+Background: 22.1687965393
+Data Error: 0.64620440135
+Data-Background: -20.7687969208
+(Data-Background)/Error: -32.1396710969
+Bin: 28
+Data: 2.20000004768
+Background: 23.7052288055
+Data Error: 0.776783912557
+Data-Background: -21.5052280426
+(Data-Background)/Error: -27.6849554876
+Bin: 29
+Data: 2.20000004768
+Background: 18.1672801971
+Data Error: 0.776783912557
+Data-Background: -15.9672803879
+(Data-Background)/Error: -20.555627028
+Bin: 30
+Data: 1.20000004768
+Background: 23.1341362
+Data Error: 0.608384090707
+Data-Background: -21.934135437
+(Data-Background)/Error: -36.0531048922
+Bin: 31
+Data: 1.79999995232
+Background: 14.2188396454
+Data Error: 0.714950920252
+Data-Background: -12.4188394547
+(Data-Background)/Error: -17.3701985729
+Bin: 32
+Data: 0.800000011921
+Background: 14.3877868652
+Data Error: 0.522832710187
+Data-Background: -13.5877866745
+(Data-Background)/Error: -25.9887845763
+Bin: 33
+Data: 1.0
+Background: 10.8028364182
+Data Error: 0.56754536513
+Data-Background: -9.80283641815
+(Data-Background)/Error: -17.2723398347
+Type: pass fit_b ptbin8
+Bin: 4
+Data: 10.3999996185
+Background: 9.88549613953
+Data Error: 1.54821665856
+Data-Background: 0.514503479004
+(Data-Background)/Error: 0.332320076882
+Bin: 5
+Data: 8.0
+Background: 8.44536876678
+Data Error: 1.37177828013
+Data-Background: -0.445368766785
+(Data-Background)/Error: -0.324665270792
+Bin: 6
+Data: 5.59999990463
+Background: 7.36552000046
+Data Error: 1.16656369577
+Data-Background: -1.76552009583
+(Data-Background)/Error: -1.51343651635
+Bin: 7
+Data: 6.40000009537
+Background: 6.75802564621
+Data Error: 1.23908026833
+Data-Background: -0.358025550842
+(Data-Background)/Error: -0.288944598661
+Bin: 8
+Data: 5.19999980927
+Background: 5.8995885849
+Data Error: 1.12839176152
+Data-Background: -0.699588775635
+(Data-Background)/Error: -0.619987489711
+Bin: 9
+Data: 7.19999980927
+Background: 5.27208995819
+Data Error: 1.30725248465
+Data-Background: 1.92790985107
+(Data-Background)/Error: 1.4747800243
+Bin: 10
+Data: 3.59999990463
+Background: 4.65074539185
+Data Error: 0.958930443961
+Data-Background: -1.05074548721
+(Data-Background)/Error: -1.09574734417
+Bin: 11
+Data: 4.19999980927
+Background: 4.63675689697
+Data Error: 1.02611348666
+Data-Background: -0.436757087708
+(Data-Background)/Error: -0.425642088703
+Bin: 12
+Data: 3.59999990463
+Background: 3.68237376213
+Data Error: 0.958930443961
+Data-Background: -0.0823738574982
+(Data-Background)/Error: -0.0859018065564
+Bin: 13
+Data: 5.40000009537
+Background: 3.6722984314
+Data Error: 1.14765139645
+Data-Background: 1.72770166397
+(Data-Background)/Error: 1.50542374568
+Bin: 14
+Data: 3.40000009537
+Background: 3.48871278763
+Data Error: 0.935338664382
+Data-Background: -0.0887126922607
+(Data-Background)/Error: -0.0948455309707
+Bin: 15
+Data: 3.0
+Background: 3.64229416847
+Data Error: 0.88603881138
+Data-Background: -0.642294168472
+(Data-Background)/Error: -0.724905230135
+Bin: 16
+Data: 4.0
+Background: 3.05565500259
+Data Error: 1.00427291554
+Data-Background: 0.944344997406
+(Data-Background)/Error: 0.940327059301
+Bin: 17
+Data: 4.59999990463
+Background: 3.88676261902
+Data Error: 1.06832018377
+Data-Background: 0.713237285614
+(Data-Background)/Error: 0.66762502146
+Bin: 18
+Data: 3.40000009537
+Background: 3.50348234177
+Data Error: 0.935338664382
+Data-Background: -0.103482246399
+(Data-Background)/Error: -0.110636126079
+Bin: 19
+Data: 2.40000009537
+Background: 3.96537590027
+Data Error: 0.805679733289
+Data-Background: -1.5653758049
+(Data-Background)/Error: -1.94292563189
+Bin: 20
+Data: 4.19999980927
+Background: 3.40397548676
+Data Error: 1.02611348666
+Data-Background: 0.79602432251
+(Data-Background)/Error: 0.775766358068
+Bin: 21
+Data: 3.40000009537
+Background: 2.90350842476
+Data Error: 0.935338664382
+Data-Background: 0.496491670609
+(Data-Background)/Error: 0.530814869004
+Bin: 22
+Data: 3.59999990463
+Background: 2.81247758865
+Data Error: 0.958930443961
+Data-Background: 0.787522315979
+(Data-Background)/Error: 0.821250718379
+Bin: 23
+Data: 1.79999995232
+Background: 2.5266854763
+Data Error: 0.714950920252
+Data-Background: -0.726685523987
+(Data-Background)/Error: -1.01641315984
+Bin: 24
+Data: 2.0
+Background: 2.35118198395
+Data Error: 0.746603527535
+Data-Background: -0.351181983948
+(Data-Background)/Error: -0.470372789567
+Bin: 25
+Data: 1.0
+Background: 2.38542199135
+Data Error: 0.56754536513
+Data-Background: -1.38542199135
+(Data-Background)/Error: -2.44107709528
+Bin: 26
+Data: 2.20000004768
+Background: 1.91267859936
+Data Error: 0.776783912557
+Data-Background: 0.287321448326
+(Data-Background)/Error: 0.369885940841
+Bin: 27
+Data: 1.39999997616
+Background: 2.02883315086
+Data Error: 0.64620440135
+Data-Background: -0.628833174706
+(Data-Background)/Error: -0.973118062012
+Bin: 28
+Data: 2.20000004768
+Background: 2.10398435593
+Data Error: 0.776783912557
+Data-Background: 0.0960156917572
+(Data-Background)/Error: 0.123606694481
+Bin: 29
+Data: 2.20000004768
+Background: 1.58322775364
+Data Error: 0.776783912557
+Data-Background: 0.616772294044
+(Data-Background)/Error: 0.794007553548
+Bin: 30
+Data: 1.20000004768
+Background: 1.74743151665
+Data Error: 0.608384090707
+Data-Background: -0.547431468964
+(Data-Background)/Error: -0.899812268804
+Bin: 31
+Data: 1.79999995232
+Background: 1.10272943974
+Data Error: 0.714950920252
+Data-Background: 0.697270512581
+(Data-Background)/Error: 0.975270459594
+Bin: 32
+Data: 0.800000011921
+Background: 0.970625460148
+Data Error: 0.522832710187
+Data-Background: -0.170625448227
+(Data-Background)/Error: -0.326348074446
+Bin: 33
+Data: 1.0
+Background: 0.72939401865
+Data Error: 0.56754536513
+Data-Background: 0.27060598135
+(Data-Background)/Error: 0.476800618904
+ptbin #0
+Type: fail prefit ptbin0
+Bin: 2
+Data: 2429.60009766
+Background: 2429.58813477
+Data Error: 22.1439722292
+Data-Background: 0.011962890625
+(Data-Background)/Error: 0.000540232371192
+Bin: 3
+Data: 1931.0
+Background: 1930.99035645
+Data Error: 19.7523972377
+Data-Background: 0.0096435546875
+(Data-Background)/Error: 0.000488221990043
+Bin: 4
+Data: 1447.40002441
+Background: 1447.3927002
+Data Error: 17.1146032889
+Data-Background: 0.00732421875
+(Data-Background)/Error: 0.000427951418234
+Bin: 5
+Data: 1168.19995117
+Background: 1168.19421387
+Data Error: 15.3858343478
+Data-Background: 0.0057373046875
+(Data-Background)/Error: 0.000372895259225
+Bin: 6
+Data: 1044.0
+Background: 1043.99487305
+Data Error: 14.5504925686
+Data-Background: 0.005126953125
+(Data-Background)/Error: 0.000352355983883
+Bin: 7
+Data: 827.200012207
+Background: 827.195861816
+Data Error: 12.9629990271
+Data-Background: 0.004150390625
+(Data-Background)/Error: 0.000320172100324
+Bin: 8
+Data: 630.0
+Background: 629.996826172
+Data Error: 11.3257184725
+Data-Background: 0.003173828125
+(Data-Background)/Error: 0.000280231945787
+Bin: 9
+Data: 459.0
+Background: 458.997741699
+Data Error: 9.68210678061
+Data-Background: 0.00225830078125
+(Data-Background)/Error: 0.000233244771249
+Type: fail fit_b ptbin0
+Bin: 2
+Data: 2429.60009766
+Background: 2424.0690918
+Data Error: 22.1439722292
+Data-Background: 5.53100585938
+(Data-Background)/Error: 0.249774783048
+Bin: 3
+Data: 1931.0
+Background: 1933.94665527
+Data Error: 19.7523972377
+Data-Background: -2.94665527344
+(Data-Background)/Error: -0.149179628072
+Bin: 4
+Data: 1447.40002441
+Background: 1435.0222168
+Data Error: 17.1146032889
+Data-Background: 12.3778076172
+(Data-Background)/Error: 0.723230764293
+Bin: 5
+Data: 1168.19995117
+Background: 1158.56665039
+Data Error: 15.3858343478
+Data-Background: 9.63330078125
+(Data-Background)/Error: 0.626114942063
+Bin: 6
+Data: 1044.0
+Background: 1043.20288086
+Data Error: 14.5504925686
+Data-Background: 0.797119140625
+(Data-Background)/Error: 0.0547829660655
+Bin: 7
+Data: 827.200012207
+Background: 834.592346191
+Data Error: 12.9629990271
+Data-Background: -7.39233398438
+(Data-Background)/Error: -0.570264177983
+Bin: 8
+Data: 630.0
+Background: 622.988464355
+Data Error: 11.3257184725
+Data-Background: 7.01153564453
+(Data-Background)/Error: 0.619080869927
+Bin: 9
+Data: 459.0
+Background: 456.972869873
+Data Error: 9.68210678061
+Data-Background: 2.02713012695
+(Data-Background)/Error: 0.209368701759
+ptbin #1
+Type: fail prefit ptbin1
+Bin: 2
+Data: 4593.79980469
+Background: 4593.77734375
+Data Error: 30.41132955
+Data-Background: 0.0224609375
+(Data-Background)/Error: 0.000738571375615
+Bin: 3
+Data: 2959.39990234
+Background: 2959.38549805
+Data Error: 24.4289273776
+Data-Background: 0.014404296875
+(Data-Background)/Error: 0.000589640988012
+Bin: 4
+Data: 2181.39990234
+Background: 2181.38891602
+Data Error: 20.9877168251
+Data-Background: 0.010986328125
+(Data-Background)/Error: 0.000523464663476
+Bin: 5
+Data: 1666.19995117
+Background: 1666.19165039
+Data Error: 18.3553203501
+Data-Background: 0.00830078125
+(Data-Background)/Error: 0.00045222753358
+Bin: 6
+Data: 1530.40002441
+Background: 1530.39245605
+Data Error: 17.5956201223
+Data-Background: 0.007568359375
+(Data-Background)/Error: 0.000430127459129
+Bin: 7
+Data: 1315.80004883
+Background: 1315.79345703
+Data Error: 16.3227225811
+Data-Background: 0.006591796875
+(Data-Background)/Error: 0.000403841751414
+Bin: 8
+Data: 1033.40002441
+Background: 1033.39489746
+Data Error: 14.4769515486
+Data-Background: 0.005126953125
+(Data-Background)/Error: 0.000354145906187
+Bin: 9
+Data: 807.0
+Background: 806.99597168
+Data Error: 12.804988978
+Data-Background: 0.0040283203125
+(Data-Background)/Error: 0.000314589908622
+Bin: 10
+Data: 548.799987793
+Background: 548.797241211
+Data Error: 10.5774406001
+Data-Background: 0.00274658203125
+(Data-Background)/Error: 0.000259664141364
+Type: fail fit_b ptbin1
+Bin: 2
+Data: 4593.79980469
+Background: 4593.77880859
+Data Error: 30.41132955
+Data-Background: 0.02099609375
+(Data-Background)/Error: 0.000690403677205
+Bin: 3
+Data: 2959.39990234
+Background: 2979.63452148
+Data Error: 24.4289273776
+Data-Background: -20.2346191406
+(Data-Background)/Error: -0.828305673347
+Bin: 4
+Data: 2181.39990234
+Background: 2188.71948242
+Data Error: 20.9877168251
+Data-Background: -7.31958007812
+(Data-Background)/Error: -0.348755423904
+Bin: 5
+Data: 1666.19995117
+Background: 1688.53869629
+Data Error: 18.3553203501
+Data-Background: -22.3387451172
+(Data-Background)/Error: -1.21701744732
+Bin: 6
+Data: 1530.40002441
+Background: 1533.76611328
+Data Error: 17.5956201223
+Data-Background: -3.36608886719
+(Data-Background)/Error: -0.191302656218
+Bin: 7
+Data: 1315.80004883
+Background: 1321.83459473
+Data Error: 16.3227225811
+Data-Background: -6.03454589844
+(Data-Background)/Error: -0.369702166318
+Bin: 8
+Data: 1033.40002441
+Background: 1054.70996094
+Data Error: 14.4769515486
+Data-Background: -21.3099365234
+(Data-Background)/Error: -1.47199059498
+Bin: 9
+Data: 807.0
+Background: 808.03326416
+Data Error: 12.804988978
+Data-Background: -1.03326416016
+(Data-Background)/Error: -0.0806923115614
+Bin: 10
+Data: 548.799987793
+Background: 552.69140625
+Data Error: 10.5774406001
+Data-Background: -3.89141845703
+(Data-Background)/Error: -0.367897925799
+ptbin #2
+Type: fail prefit ptbin2
+Bin: 2
+Data: 4219.20019531
+Background: 4219.17919922
+Data Error: 29.1492117025
+Data-Background: 0.02099609375
+(Data-Background)/Error: 0.000720297137512
+Bin: 3
+Data: 2540.19995117
+Background: 2540.18725586
+Data Error: 22.6401133678
+Data-Background: 0.0126953125
+(Data-Background)/Error: 0.000560744210674
+Bin: 4
+Data: 1923.19995117
+Background: 1923.19042969
+Data Error: 19.7126672661
+Data-Background: 0.009521484375
+(Data-Background)/Error: 0.000483013498197
+Bin: 5
+Data: 1420.59997559
+Background: 1420.59289551
+Data Error: 16.956355645
+Data-Background: 0.007080078125
+(Data-Background)/Error: 0.000417547158909
+Bin: 6
+Data: 1234.0
+Background: 1233.99377441
+Data Error: 15.8104019664
+Data-Background: 0.0062255859375
+(Data-Background)/Error: 0.000393765190204
+Bin: 7
+Data: 1124.0
+Background: 1123.99438477
+Data Error: 15.0938898548
+Data-Background: 0.005615234375
+(Data-Background)/Error: 0.00037202036248
+Bin: 8
+Data: 1001.20001221
+Background: 1001.19500732
+Data Error: 14.2512097339
+Data-Background: 0.0050048828125
+(Data-Background)/Error: 0.000351190032703
+Bin: 9
+Data: 788.200012207
+Background: 788.196044922
+Data Error: 12.6561437495
+Data-Background: 0.00396728515625
+(Data-Background)/Error: 0.000313467137762
+Bin: 10
+Data: 635.400024414
+Background: 635.396850586
+Data Error: 11.3737196545
+Data-Background: 0.003173828125
+(Data-Background)/Error: 0.000279049266328
+Bin: 11
+Data: 450.399993896
+Background: 450.397766113
+Data Error: 9.59193190745
+Data-Background: 0.00222778320312
+(Data-Background)/Error: 0.000232255944331
+Type: fail fit_b ptbin2
+Bin: 2
+Data: 4219.20019531
+Background: 4217.38183594
+Data Error: 29.1492117025
+Data-Background: 1.818359375
+(Data-Background)/Error: 0.0623810823278
+Bin: 3
+Data: 2540.19995117
+Background: 2537.29541016
+Data Error: 22.6401133678
+Data-Background: 2.90454101562
+(Data-Background)/Error: 0.128291805277
+Bin: 4
+Data: 1923.19995117
+Background: 1895.11669922
+Data Error: 19.7126672661
+Data-Background: 28.0832519531
+(Data-Background)/Error: 1.42462973549
+Bin: 5
+Data: 1420.59997559
+Background: 1418.72131348
+Data Error: 16.956355645
+Data-Background: 1.87866210938
+(Data-Background)/Error: 0.11079397889
+Bin: 6
+Data: 1234.0
+Background: 1226.03430176
+Data Error: 15.8104019664
+Data-Background: 7.96569824219
+(Data-Background)/Error: 0.503826421309
+Bin: 7
+Data: 1124.0
+Background: 1124.58972168
+Data Error: 15.0938898548
+Data-Background: -0.589721679688
+(Data-Background)/Error: -0.0390702254596
+Bin: 8
+Data: 1001.20001221
+Background: 989.975708008
+Data Error: 14.2512097339
+Data-Background: 11.2243041992
+(Data-Background)/Error: 0.78760360761
+Bin: 9
+Data: 788.200012207
+Background: 785.406738281
+Data Error: 12.6561437495
+Data-Background: 2.79327392578
+(Data-Background)/Error: 0.220704977841
+Bin: 10
+Data: 635.400024414
+Background: 623.007446289
+Data Error: 11.3737196545
+Data-Background: 12.392578125
+(Data-Background)/Error: 1.08958005837
+Bin: 11
+Data: 450.399993896
+Background: 446.955657959
+Data Error: 9.59193190745
+Data-Background: 3.4443359375
+(Data-Background)/Error: 0.359086779466
+ptbin #3
+Type: fail prefit ptbin3
+Bin: 2
+Data: 4032.39990234
+Background: 4032.38012695
+Data Error: 28.4988855656
+Data-Background: 0.019775390625
+(Data-Background)/Error: 0.000693900488827
+Bin: 3
+Data: 2490.0
+Background: 2489.98754883
+Data Error: 22.416288022
+Data-Background: 0.012451171875
+(Data-Background)/Error: 0.000555451993781
+Bin: 4
+Data: 1856.40002441
+Background: 1856.39074707
+Data Error: 19.3690611655
+Data-Background: 0.00927734375
+(Data-Background)/Error: 0.000478977461567
+Bin: 5
+Data: 1429.59997559
+Background: 1429.59289551
+Data Error: 17.0096636702
+Data-Background: 0.007080078125
+(Data-Background)/Error: 0.000416238572513
+Bin: 6
+Data: 1142.19995117
+Background: 1142.19433594
+Data Error: 15.2147852266
+Data-Background: 0.005615234375
+(Data-Background)/Error: 0.000369064320749
+Bin: 7
+Data: 1069.19995117
+Background: 1069.19470215
+Data Error: 14.72384131
+Data-Background: 0.0052490234375
+(Data-Background)/Error: 0.000356498234868
+Bin: 8
+Data: 995.599975586
+Background: 995.595153809
+Data Error: 14.2115816665
+Data-Background: 0.00482177734375
+(Data-Background)/Error: 0.000339285060375
+Bin: 9
+Data: 846.400024414
+Background: 846.395812988
+Data Error: 13.1114081901
+Data-Background: 0.00421142578125
+(Data-Background)/Error: 0.00032120316294
+Bin: 10
+Data: 702.799987793
+Background: 702.796508789
+Data Error: 11.9565066745
+Data-Background: 0.00347900390625
+(Data-Background)/Error: 0.000290971602405
+Bin: 11
+Data: 580.400024414
+Background: 580.397155762
+Data Error: 10.874820598
+Data-Background: 0.00286865234375
+(Data-Background)/Error: 0.000263788475213
+Bin: 12
+Data: 440.799987793
+Background: 440.797821045
+Data Error: 9.4902487967
+Data-Background: 0.00216674804688
+(Data-Background)/Error: 0.000228313092027
+Bin: 13
+Data: 173.0
+Background: 172.999160767
+Data Error: 5.98360730966
+Data-Background: 0.000839233398438
+(Data-Background)/Error: 0.000140255427037
+Type: fail fit_b ptbin3
+Bin: 2
+Data: 4032.39990234
+Background: 4026.77685547
+Data Error: 28.4988855656
+Data-Background: 5.623046875
+(Data-Background)/Error: 0.197307605663
+Bin: 3
+Data: 2490.0
+Background: 2486.87646484
+Data Error: 22.416288022
+Data-Background: 3.12353515625
+(Data-Background)/Error: 0.13934221193
+Bin: 4
+Data: 1856.40002441
+Background: 1845.21044922
+Data Error: 19.3690611655
+Data-Background: 11.1895751953
+(Data-Background)/Error: 0.577703539665
+Bin: 5
+Data: 1429.59997559
+Background: 1409.85302734
+Data Error: 17.0096636702
+Data-Background: 19.7469482422
+(Data-Background)/Error: 1.16092526138
+Bin: 6
+Data: 1142.19995117
+Background: 1150.08642578
+Data Error: 15.2147852266
+Data-Background: -7.88647460938
+(Data-Background)/Error: -0.518342815354
+Bin: 7
+Data: 1069.19995117
+Background: 1056.24694824
+Data Error: 14.72384131
+Data-Background: 12.9530029297
+(Data-Background)/Error: 0.879729865118
+Bin: 8
+Data: 995.599975586
+Background: 986.079284668
+Data Error: 14.2115816665
+Data-Background: 9.52069091797
+(Data-Background)/Error: 0.669924793832
+Bin: 9
+Data: 846.400024414
+Background: 842.445617676
+Data Error: 13.1114081901
+Data-Background: 3.95440673828
+(Data-Background)/Error: 0.301600459764
+Bin: 10
+Data: 702.799987793
+Background: 701.806762695
+Data Error: 11.9565066745
+Data-Background: 0.993225097656
+(Data-Background)/Error: 0.0830698401041
+Bin: 11
+Data: 580.400024414
+Background: 570.451843262
+Data Error: 10.874820598
+Data-Background: 9.94818115234
+(Data-Background)/Error: 0.914790369434
+Bin: 12
+Data: 440.799987793
+Background: 439.852111816
+Data Error: 9.4902487967
+Data-Background: 0.947875976562
+(Data-Background)/Error: 0.0998789385682
+Bin: 13
+Data: 173.0
+Background: 173.13621521
+Data Error: 5.98360730966
+Data-Background: -0.136215209961
+(Data-Background)/Error: -0.0227647308574
+ptbin #4
+Type: fail prefit ptbin4
+Bin: 2
+Data: 2334.39990234
+Background: 2334.38842773
+Data Error: 21.7077928665
+Data-Background: 0.011474609375
+(Data-Background)/Error: 0.000528594014398
+Bin: 3
+Data: 1666.80004883
+Background: 1666.79162598
+Data Error: 18.358606767
+Data-Background: 0.0084228515625
+(Data-Background)/Error: 0.000458795793678
+Bin: 4
+Data: 1224.0
+Background: 1223.99401855
+Data Error: 15.7466204084
+Data-Background: 0.0059814453125
+(Data-Background)/Error: 0.000379855813969
+Bin: 5
+Data: 942.0
+Background: 941.995300293
+Data Error: 13.8264977
+Data-Background: 0.00469970703125
+(Data-Background)/Error: 0.000339905819479
+Bin: 6
+Data: 777.599975586
+Background: 777.596130371
+Data Error: 12.5714372225
+Data-Background: 0.00384521484375
+(Data-Background)/Error: 0.000305869152086
+Bin: 7
+Data: 699.599975586
+Background: 699.596557617
+Data Error: 11.9294864941
+Data-Background: 0.00341796875
+(Data-Background)/Error: 0.000286514323286
+Bin: 8
+Data: 630.799987793
+Background: 630.796875
+Data Error: 11.332842702
+Data-Background: 0.00311279296875
+(Data-Background)/Error: 0.000274670093869
+Bin: 9
+Data: 586.799987793
+Background: 586.797058105
+Data Error: 10.9340554926
+Data-Background: 0.0029296875
+(Data-Background)/Error: 0.000267941524715
+Bin: 10
+Data: 519.200012207
+Background: 519.19744873
+Data Error: 10.2910138938
+Data-Background: 0.0025634765625
+(Data-Background)/Error: 0.000249098542568
+Bin: 11
+Data: 428.799987793
+Background: 428.79788208
+Data Error: 9.36157513206
+Data-Background: 0.00210571289062
+(Data-Background)/Error: 0.000224931473702
+Bin: 12
+Data: 355.799987793
+Background: 355.798248291
+Data Error: 8.53663347298
+Data-Background: 0.00173950195312
+(Data-Background)/Error: 0.000203769080473
+Bin: 13
+Data: 289.399993896
+Background: 289.39855957
+Data Error: 7.70899448517
+Data-Background: 0.00143432617188
+(Data-Background)/Error: 0.000186058788164
+Bin: 14
+Data: 184.0
+Background: 183.999084473
+Data Error: 6.16768736124
+Data-Background: 0.00091552734375
+(Data-Background)/Error: 0.000148439324195
+Type: fail fit_b ptbin4
+Bin: 2
+Data: 2334.39990234
+Background: 2340.84008789
+Data Error: 21.7077928665
+Data-Background: -6.44018554688
+(Data-Background)/Error: -0.296676202251
+Bin: 3
+Data: 1666.80004883
+Background: 1692.11303711
+Data Error: 18.358606767
+Data-Background: -25.3129882812
+(Data-Background)/Error: -1.37880769508
+Bin: 4
+Data: 1224.0
+Background: 1249.26831055
+Data Error: 15.7466204084
+Data-Background: -25.2683105469
+(Data-Background)/Error: -1.60468150571
+Bin: 5
+Data: 942.0
+Background: 951.536315918
+Data Error: 13.8264977
+Data-Background: -9.53631591797
+(Data-Background)/Error: -0.689713051336
+Bin: 6
+Data: 777.599975586
+Background: 790.697631836
+Data Error: 12.5714372225
+Data-Background: -13.09765625
+(Data-Background)/Error: -1.04185830293
+Bin: 7
+Data: 699.599975586
+Background: 708.444824219
+Data Error: 11.9294864941
+Data-Background: -8.84484863281
+(Data-Background)/Error: -0.741427440084
+Bin: 8
+Data: 630.799987793
+Background: 640.889160156
+Data Error: 11.332842702
+Data-Background: -10.0891723633
+(Data-Background)/Error: -0.890259631109
+Bin: 9
+Data: 586.799987793
+Background: 594.456604004
+Data Error: 10.9340554926
+Data-Background: -7.65661621094
+(Data-Background)/Error: -0.700254010613
+Bin: 10
+Data: 519.200012207
+Background: 518.835693359
+Data Error: 10.2910138938
+Data-Background: 0.364318847656
+(Data-Background)/Error: 0.035401647633
+Bin: 11
+Data: 428.799987793
+Background: 441.774810791
+Data Error: 9.36157513206
+Data-Background: -12.974822998
+(Data-Background)/Error: -1.3859658033
+Bin: 12
+Data: 355.799987793
+Background: 359.558502197
+Data Error: 8.53663347298
+Data-Background: -3.7585144043
+(Data-Background)/Error: -0.440280634772
+Bin: 13
+Data: 289.399993896
+Background: 298.30368042
+Data Error: 7.70899448517
+Data-Background: -8.90368652344
+(Data-Background)/Error: -1.15497378297
+Bin: 14
+Data: 184.0
+Background: 188.90512085
+Data Error: 6.16768736124
+Data-Background: -4.90512084961
+(Data-Background)/Error: -0.795293367241
+ptbin #5
+Type: fail prefit ptbin5
+Bin: 2
+Data: 2330.19995117
+Background: 2330.18847656
+Data Error: 21.6883466854
+Data-Background: 0.011474609375
+(Data-Background)/Error: 0.000529067961769
+Bin: 3
+Data: 2284.80004883
+Background: 2284.78857422
+Data Error: 21.4770136611
+Data-Background: 0.011474609375
+(Data-Background)/Error: 0.000534273971049
+Bin: 4
+Data: 1681.80004883
+Background: 1681.79162598
+Data Error: 18.4405758044
+Data-Background: 0.0084228515625
+(Data-Background)/Error: 0.00045675642951
+Bin: 5
+Data: 1353.80004883
+Background: 1353.79333496
+Data Error: 16.5552948035
+Data-Background: 0.0067138671875
+(Data-Background)/Error: 0.000405541989266
+Bin: 6
+Data: 1093.59997559
+Background: 1093.59460449
+Data Error: 14.8897509748
+Data-Background: 0.00537109375
+(Data-Background)/Error: 0.000360724216215
+Bin: 7
+Data: 918.799987793
+Background: 918.795471191
+Data Error: 13.6564279962
+Data-Background: 0.0045166015625
+(Data-Background)/Error: 0.000330730815096
+Bin: 8
+Data: 824.400024414
+Background: 824.395874023
+Data Error: 12.9412127192
+Data-Background: 0.004150390625
+(Data-Background)/Error: 0.000320711104519
+Bin: 9
+Data: 776.200012207
+Background: 776.196166992
+Data Error: 12.5602065178
+Data-Background: 0.00384521484375
+(Data-Background)/Error: 0.000306142644892
+Bin: 10
+Data: 717.599975586
+Background: 717.596435547
+Data Error: 12.0806823535
+Data-Background: 0.0035400390625
+(Data-Background)/Error: 0.000293033038938
+Bin: 11
+Data: 659.799987793
+Background: 659.79675293
+Data Error: 11.5881135617
+Data-Background: 0.00323486328125
+(Data-Background)/Error: 0.000279153570944
+Bin: 12
+Data: 625.799987793
+Background: 625.796875
+Data Error: 11.2882418422
+Data-Background: 0.00311279296875
+(Data-Background)/Error: 0.000275755340138
+Bin: 13
+Data: 513.200012207
+Background: 513.19744873
+Data Error: 10.2319674669
+Data-Background: 0.0025634765625
+(Data-Background)/Error: 0.000250536035302
+Bin: 14
+Data: 432.200012207
+Background: 432.197906494
+Data Error: 9.39821345777
+Data-Background: 0.00210571289062
+(Data-Background)/Error: 0.000224054592938
+Bin: 15
+Data: 368.399993896
+Background: 368.398193359
+Data Error: 8.68468300748
+Data-Background: 0.00180053710938
+(Data-Background)/Error: 0.000207323296409
+Bin: 16
+Data: 235.800003052
+Background: 235.798858643
+Data Error: 6.9685377649
+Data-Background: 0.00114440917969
+(Data-Background)/Error: 0.000164225152865
+Bin: 17
+Data: 125.199996948
+Background: 125.199394226
+Data Error: 5.10568318721
+Data-Background: 0.000602722167969
+(Data-Background)/Error: 0.000118049268995
+Type: fail fit_b ptbin5
+Bin: 2
+Data: 2330.19995117
+Background: 2333.12182617
+Data Error: 21.6883466854
+Data-Background: -2.921875
+(Data-Background)/Error: -0.134720965244
+Bin: 3
+Data: 2284.80004883
+Background: 2268.78515625
+Data Error: 21.4770136611
+Data-Background: 16.0148925781
+(Data-Background)/Error: 0.745675950616
+Bin: 4
+Data: 1681.80004883
+Background: 1672.77722168
+Data Error: 18.4405758044
+Data-Background: 9.02282714844
+(Data-Background)/Error: 0.489292050539
+Bin: 5
+Data: 1353.80004883
+Background: 1341.97009277
+Data Error: 16.5552948035
+Data-Background: 11.8299560547
+(Data-Background)/Error: 0.714572358578
+Bin: 6
+Data: 1093.59997559
+Background: 1089.05114746
+Data Error: 14.8897509748
+Data-Background: 4.548828125
+(Data-Background)/Error: 0.305500618023
+Bin: 7
+Data: 918.799987793
+Background: 923.908813477
+Data Error: 13.6564279962
+Data-Background: -5.10882568359
+(Data-Background)/Error: -0.374096775892
+Bin: 8
+Data: 824.400024414
+Background: 832.023498535
+Data Error: 12.9412127192
+Data-Background: -7.62347412109
+(Data-Background)/Error: -0.589084986584
+Bin: 9
+Data: 776.200012207
+Background: 764.951782227
+Data Error: 12.5602065178
+Data-Background: 11.2482299805
+(Data-Background)/Error: 0.895544986823
+Bin: 10
+Data: 717.599975586
+Background: 714.421508789
+Data Error: 12.0806823535
+Data-Background: 3.17846679688
+(Data-Background)/Error: 0.263103250616
+Bin: 11
+Data: 659.799987793
+Background: 660.843383789
+Data Error: 11.5881135617
+Data-Background: -1.04339599609
+(Data-Background)/Error: -0.0900401942507
+Bin: 12
+Data: 625.799987793
+Background: 617.603515625
+Data Error: 11.2882418422
+Data-Background: 8.19647216797
+(Data-Background)/Error: 0.726107066322
+Bin: 13
+Data: 513.200012207
+Background: 514.129577637
+Data Error: 10.2319674669
+Data-Background: -0.929565429688
+(Data-Background)/Error: -0.0908491385153
+Bin: 14
+Data: 432.200012207
+Background: 427.930419922
+Data Error: 9.39821345777
+Data-Background: 4.26959228516
+(Data-Background)/Error: 0.45429828811
+Bin: 15
+Data: 368.399993896
+Background: 363.241668701
+Data Error: 8.68468300748
+Data-Background: 5.15832519531
+(Data-Background)/Error: 0.593956646531
+Bin: 16
+Data: 235.800003052
+Background: 235.603302002
+Data Error: 6.9685377649
+Data-Background: 0.196701049805
+(Data-Background)/Error: 0.0282270192745
+Bin: 17
+Data: 125.199996948
+Background: 127.71635437
+Data Error: 5.10568318721
+Data-Background: -2.51635742188
+(Data-Background)/Error: -0.492854203758
+ptbin #6
+Type: fail prefit ptbin6
+Bin: 3
+Data: 930.400024414
+Background: 930.400024414
+Data Error: 13.7417278802
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 4
+Data: 710.599975586
+Background: 710.599975586
+Data Error: 12.0221118122
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 5
+Data: 538.799987793
+Background: 538.799987793
+Data Error: 10.4815587655
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 6
+Data: 474.200012207
+Background: 474.200012207
+Data Error: 9.83944396191
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 7
+Data: 395.799987793
+Background: 395.799987793
+Data Error: 8.99813341581
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 8
+Data: 334.200012207
+Background: 334.199981689
+Data Error: 8.27660003168
+Data-Background: 3.0517578125e-05
+(Data-Background)/Error: 3.6872118996e-06
+Bin: 9
+Data: 310.200012207
+Background: 310.200012207
+Data Error: 7.97761338586
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 10
+Data: 280.399993896
+Background: 280.399993896
+Data Error: 7.58977964542
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 11
+Data: 274.200012207
+Background: 274.200012207
+Data Error: 7.50653769419
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 12
+Data: 251.800003052
+Background: 251.800018311
+Data Error: 7.19766203775
+Data-Background: -1.52587890625e-05
+(Data-Background)/Error: -2.1199646472e-06
+Bin: 13
+Data: 246.600006104
+Background: 246.599990845
+Data Error: 7.12401650455
+Data-Background: 1.52587890625e-05
+(Data-Background)/Error: 2.14188008306e-06
+Bin: 14
+Data: 228.800003052
+Background: 228.799987793
+Data Error: 6.8658564278
+Data-Background: 1.52587890625e-05
+(Data-Background)/Error: 2.22241598305e-06
+Bin: 15
+Data: 185.600006104
+Background: 185.599990845
+Data Error: 6.19399944332
+Data-Background: 1.52587890625e-05
+(Data-Background)/Error: 2.46347924344e-06
+Bin: 16
+Data: 171.800003052
+Background: 171.800003052
+Data Error: 5.96317623438
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 17
+Data: 163.800003052
+Background: 163.800003052
+Data Error: 5.82510607673
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 18
+Data: 140.600006104
+Background: 140.599990845
+Data Error: 5.40441826809
+Data-Background: 1.52587890625e-05
+(Data-Background)/Error: 2.82339158547e-06
+Bin: 19
+Data: 117.0
+Background: 116.999992371
+Data Error: 4.93909814867
+Data-Background: 7.62939453125e-06
+(Data-Background)/Error: 1.54469384928e-06
+Bin: 20
+Data: 68.5999984741
+Background: 68.5999984741
+Data Error: 3.80633678735
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Type: fail fit_b ptbin6
+Bin: 3
+Data: 930.400024414
+Background: 924.026794434
+Data Error: 13.7417278802
+Data-Background: 6.37322998047
+(Data-Background)/Error: 0.463786653033
+Bin: 4
+Data: 710.599975586
+Background: 709.652587891
+Data Error: 12.0221118122
+Data-Background: 0.947387695312
+(Data-Background)/Error: 0.0788037667685
+Bin: 5
+Data: 538.799987793
+Background: 537.551086426
+Data Error: 10.4815587655
+Data-Background: 1.24890136719
+(Data-Background)/Error: 0.119152255416
+Bin: 6
+Data: 474.200012207
+Background: 471.697113037
+Data Error: 9.83944396191
+Data-Background: 2.50289916992
+(Data-Background)/Error: 0.254374045892
+Bin: 7
+Data: 395.799987793
+Background: 400.139434814
+Data Error: 8.99813341581
+Data-Background: -4.33944702148
+(Data-Background)/Error: -0.482260800208
+Bin: 8
+Data: 334.200012207
+Background: 335.575744629
+Data Error: 8.27660003168
+Data-Background: -1.37573242188
+(Data-Background)/Error: -0.166219512434
+Bin: 9
+Data: 310.200012207
+Background: 311.240600586
+Data Error: 7.97761338586
+Data-Background: -1.04058837891
+(Data-Background)/Error: -0.130438557069
+Bin: 10
+Data: 280.399993896
+Background: 282.250305176
+Data Error: 7.58977964542
+Data-Background: -1.8503112793
+(Data-Background)/Error: -0.243789855008
+Bin: 11
+Data: 274.200012207
+Background: 272.383300781
+Data Error: 7.50653769419
+Data-Background: 1.81671142578
+(Data-Background)/Error: 0.24201722549
+Bin: 12
+Data: 251.800003052
+Background: 249.971664429
+Data Error: 7.19766203775
+Data-Background: 1.82833862305
+(Data-Background)/Error: 0.254018403957
+Bin: 13
+Data: 246.600006104
+Background: 242.046066284
+Data Error: 7.12401650455
+Data-Background: 4.55393981934
+(Data-Background)/Error: 0.63923768515
+Bin: 14
+Data: 228.800003052
+Background: 224.425979614
+Data Error: 6.8658564278
+Data-Background: 4.3740234375
+(Data-Background)/Error: 0.637068876038
+Bin: 15
+Data: 185.600006104
+Background: 192.186599731
+Data Error: 6.19399944332
+Data-Background: -6.58659362793
+(Data-Background)/Error: -1.06338298674
+Bin: 16
+Data: 171.800003052
+Background: 173.411956787
+Data Error: 5.96317623438
+Data-Background: -1.61195373535
+(Data-Background)/Error: -0.270317976863
+Bin: 17
+Data: 163.800003052
+Background: 164.977767944
+Data Error: 5.82510607673
+Data-Background: -1.17776489258
+(Data-Background)/Error: -0.202187715909
+Bin: 18
+Data: 140.600006104
+Background: 138.71282959
+Data Error: 5.40441826809
+Data-Background: 1.88717651367
+(Data-Background)/Error: 0.349191424508
+Bin: 19
+Data: 117.0
+Background: 116.352516174
+Data Error: 4.93909814867
+Data-Background: 0.647483825684
+(Data-Background)/Error: 0.131093532907
+Bin: 20
+Data: 68.5999984741
+Background: 70.0509338379
+Data Error: 3.80633678735
+Data-Background: -1.45093536377
+(Data-Background)/Error: -0.381189433523
+ptbin #7
+Type: fail prefit ptbin7
+Bin: 3
+Data: 572.799987793
+Background: 572.797180176
+Data Error: 10.8040534157
+Data-Background: 0.0028076171875
+(Data-Background)/Error: 0.000259867022077
+Bin: 4
+Data: 428.799987793
+Background: 428.79788208
+Data Error: 9.36157513206
+Data-Background: 0.00210571289062
+(Data-Background)/Error: 0.000224931473702
+Bin: 5
+Data: 344.399993896
+Background: 344.39831543
+Data Error: 8.40040880184
+Data-Background: 0.00167846679688
+(Data-Background)/Error: 0.000199807751797
+Bin: 6
+Data: 287.600006104
+Background: 287.598571777
+Data Error: 7.68530140996
+Data-Background: 0.00143432617188
+(Data-Background)/Error: 0.000186632390243
+Bin: 7
+Data: 254.399993896
+Background: 254.398727417
+Data Error: 7.23419972328
+Data-Background: 0.00126647949219
+(Data-Background)/Error: 0.000175068361482
+Bin: 8
+Data: 207.199996948
+Background: 207.198959351
+Data Error: 6.53869711865
+Data-Background: 0.00103759765625
+(Data-Background)/Error: 0.000158685688819
+Bin: 9
+Data: 198.399993896
+Background: 198.399017334
+Data Error: 6.40054155864
+Data-Background: 0.0009765625
+(Data-Background)/Error: 0.000152574979953
+Bin: 10
+Data: 180.600006104
+Background: 180.599105835
+Data Error: 6.11139180464
+Data-Background: 0.000900268554688
+(Data-Background)/Error: 0.000147309906396
+Bin: 11
+Data: 160.199996948
+Background: 160.199203491
+Data Error: 5.76187614685
+Data-Background: 0.00079345703125
+(Data-Background)/Error: 0.000137708102539
+Bin: 12
+Data: 156.600006104
+Background: 156.599227905
+Data Error: 5.69793207175
+Data-Background: 0.000778198242188
+(Data-Background)/Error: 0.000136575556252
+Bin: 13
+Data: 153.800003052
+Background: 153.799240112
+Data Error: 5.64768826319
+Data-Background: 0.000762939453125
+(Data-Background)/Error: 0.000135088804051
+Bin: 14
+Data: 133.600006104
+Background: 133.599334717
+Data Error: 5.27076956865
+Data-Background: 0.00067138671875
+(Data-Background)/Error: 0.000127379258381
+Bin: 15
+Data: 128.399993896
+Background: 128.399353027
+Data Error: 5.16920720849
+Data-Background: 0.000640869140625
+(Data-Background)/Error: 0.000123978226211
+Bin: 16
+Data: 124.599998474
+Background: 124.599388123
+Data Error: 5.0936824729
+Data-Background: 0.0006103515625
+(Data-Background)/Error: 0.000119825208137
+Bin: 17
+Data: 121.599998474
+Background: 121.599411011
+Data Error: 5.03324102783
+Data-Background: 0.000587463378906
+(Data-Background)/Error: 0.00011671671904
+Bin: 18
+Data: 109.0
+Background: 108.999473572
+Data Error: 4.77085411481
+Data-Background: 0.000526428222656
+(Data-Background)/Error: 0.000110342552924
+Bin: 19
+Data: 103.800003052
+Background: 103.799507141
+Data Error: 4.65816666295
+Data-Background: 0.000495910644531
+(Data-Background)/Error: 0.000106460476925
+Bin: 20
+Data: 83.5999984741
+Background: 83.5996017456
+Data Error: 4.19107659794
+Data-Background: 0.000396728515625
+(Data-Background)/Error: 9.46602874832e-05
+Bin: 21
+Data: 77.5999984741
+Background: 77.5996322632
+Data Error: 4.04168957914
+Data-Background: 0.0003662109375
+(Data-Background)/Error: 9.06083780878e-05
+Bin: 22
+Data: 77.0
+Background: 76.9996337891
+Data Error: 4.02643829647
+Data-Background: 0.0003662109375
+(Data-Background)/Error: 9.09515831452e-05
+Bin: 23
+Data: 63.7999992371
+Background: 63.7996902466
+Data Error: 3.67448486238
+Data-Background: 0.000308990478516
+(Data-Background)/Error: 8.4090829079e-05
+Bin: 24
+Data: 40.5999984741
+Background: 40.5998039246
+Data Error: 2.95254454501
+Data-Background: 0.000194549560547
+(Data-Background)/Error: 6.58921677831e-05
+Bin: 25
+Data: 25.2000007629
+Background: 25.1998786926
+Data Error: 2.34879977571
+Data-Background: 0.0001220703125
+(Data-Background)/Error: 5.19713573556e-05
+Bin: 26
+Data: 15.8000001907
+Background: 15.7999229431
+Data Error: 1.88247314395
+Data-Background: 7.72476196289e-05
+(Data-Background)/Error: 4.10351775148e-05
+Type: fail fit_b ptbin7
+Bin: 3
+Data: 572.799987793
+Background: 572.097473145
+Data Error: 10.8040534157
+Data-Background: 0.702514648438
+(Data-Background)/Error: 0.06502324835
+Bin: 4
+Data: 428.799987793
+Background: 436.350769043
+Data Error: 9.36157513206
+Data-Background: -7.55078125
+(Data-Background)/Error: -0.80657166593
+Bin: 5
+Data: 344.399993896
+Background: 342.724090576
+Data Error: 8.40040880184
+Data-Background: 1.67590332031
+(Data-Background)/Error: 0.199502590867
+Bin: 6
+Data: 287.600006104
+Background: 290.079162598
+Data Error: 7.68530140996
+Data-Background: -2.47915649414
+(Data-Background)/Error: -0.322584159279
+Bin: 7
+Data: 254.399993896
+Background: 254.305603027
+Data Error: 7.23419972328
+Data-Background: 0.0943908691406
+(Data-Background)/Error: 0.0130478660738
+Bin: 8
+Data: 207.199996948
+Background: 207.130661011
+Data Error: 6.53869711865
+Data-Background: 0.0693359375
+(Data-Background)/Error: 0.010603937794
+Bin: 9
+Data: 198.399993896
+Background: 200.381500244
+Data Error: 6.40054155864
+Data-Background: -1.98150634766
+(Data-Background)/Error: -0.309584170262
+Bin: 10
+Data: 180.600006104
+Background: 178.731399536
+Data Error: 6.11139180464
+Data-Background: 1.86860656738
+(Data-Background)/Error: 0.305757939781
+Bin: 11
+Data: 160.199996948
+Background: 157.300811768
+Data Error: 5.76187614685
+Data-Background: 2.89918518066
+(Data-Background)/Error: 0.50316686905
+Bin: 12
+Data: 156.600006104
+Background: 155.600753784
+Data Error: 5.69793207175
+Data-Background: 0.999252319336
+(Data-Background)/Error: 0.175371048084
+Bin: 13
+Data: 153.800003052
+Background: 157.574737549
+Data Error: 5.64768826319
+Data-Background: -3.77473449707
+(Data-Background)/Error: -0.668368068697
+Bin: 14
+Data: 133.600006104
+Background: 132.997711182
+Data Error: 5.27076956865
+Data-Background: 0.602294921875
+(Data-Background)/Error: 0.1142707747
+Bin: 15
+Data: 128.399993896
+Background: 131.322555542
+Data Error: 5.16920720849
+Data-Background: -2.92256164551
+(Data-Background)/Error: -0.565379085735
+Bin: 16
+Data: 124.599998474
+Background: 125.328727722
+Data Error: 5.0936824729
+Data-Background: -0.728729248047
+(Data-Background)/Error: -0.143065307255
+Bin: 17
+Data: 121.599998474
+Background: 121.898490906
+Data Error: 5.03324102783
+Data-Background: -0.298492431641
+(Data-Background)/Error: -0.0593042196848
+Bin: 18
+Data: 109.0
+Background: 106.496383667
+Data Error: 4.77085411481
+Data-Background: 2.50361633301
+(Data-Background)/Error: 0.524773190032
+Bin: 19
+Data: 103.800003052
+Background: 102.488204956
+Data Error: 4.65816666295
+Data-Background: 1.3117980957
+(Data-Background)/Error: 0.281612529268
+Bin: 20
+Data: 83.5999984741
+Background: 85.0430908203
+Data Error: 4.19107659794
+Data-Background: -1.44309234619
+(Data-Background)/Error: -0.34432497533
+Bin: 21
+Data: 77.5999984741
+Background: 77.9425964355
+Data Error: 4.04168957914
+Data-Background: -0.342597961426
+(Data-Background)/Error: -0.0847660253757
+Bin: 22
+Data: 77.0
+Background: 77.5556488037
+Data Error: 4.02643829647
+Data-Background: -0.555648803711
+(Data-Background)/Error: -0.138000079176
+Bin: 23
+Data: 63.7999992371
+Background: 62.1500091553
+Data Error: 3.67448486238
+Data-Background: 1.64999008179
+(Data-Background)/Error: 0.44903983649
+Bin: 24
+Data: 40.5999984741
+Background: 39.1376533508
+Data Error: 2.95254454501
+Data-Background: 1.46234512329
+(Data-Background)/Error: 0.495283001153
+Bin: 25
+Data: 25.2000007629
+Background: 26.6676654816
+Data Error: 2.34879977571
+Data-Background: -1.46766471863
+(Data-Background)/Error: -0.624857313854
+Bin: 26
+Data: 15.8000001907
+Background: 16.1486473083
+Data Error: 1.88247314395
+Data-Background: -0.348647117615
+(Data-Background)/Error: -0.185206954338
+ptbin #8
+Type: fail prefit ptbin8
+Bin: 4
+Data: 103.199996948
+Background: 103.199996948
+Data Error: 4.6449844827
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 5
+Data: 76.5999984741
+Background: 76.5999984741
+Data Error: 4.01623777886
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 6
+Data: 66.5999984741
+Background: 66.5999984741
+Data Error: 3.75197703671
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 7
+Data: 60.7999992371
+Background: 60.7999992371
+Data Error: 3.58954848481
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 8
+Data: 54.4000015259
+Background: 54.3999938965
+Data Error: 3.40105505247
+Data-Background: 7.62939453125e-06
+(Data-Background)/Error: 2.24324346815e-06
+Bin: 9
+Data: 47.2000007629
+Background: 47.1999969482
+Data Error: 3.17522128266
+Data-Background: 3.81469726562e-06
+(Data-Background)/Error: 1.20139572208e-06
+Bin: 10
+Data: 45.2000007629
+Background: 45.1999969482
+Data Error: 3.1094838069
+Data-Background: 3.81469726562e-06
+(Data-Background)/Error: 1.22679438213e-06
+Bin: 11
+Data: 44.5999984741
+Background: 44.5999984741
+Data Error: 3.08948071177
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 12
+Data: 35.4000015259
+Background: 35.3999938965
+Data Error: 2.76402593924
+Data-Background: 7.62939453125e-06
+(Data-Background)/Error: 2.76024708123e-06
+Bin: 13
+Data: 33.2000007629
+Background: 33.1999969482
+Data Error: 2.68012517214
+Data-Background: 3.81469726562e-06
+(Data-Background)/Error: 1.42332802411e-06
+Bin: 14
+Data: 33.0
+Background: 33.0
+Data Error: 2.67236214871
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 15
+Data: 33.4000015259
+Background: 33.3999977112
+Data Error: 2.68786491023
+Data-Background: 3.81469726562e-06
+(Data-Background)/Error: 1.4192295346e-06
+Bin: 16
+Data: 24.2000007629
+Background: 24.1999950409
+Data Error: 2.30388499121
+Data-Background: 5.72204589844e-06
+(Data-Background)/Error: 2.48365084206e-06
+Bin: 17
+Data: 30.0
+Background: 29.999994278
+Data Error: 2.55297067374
+Data-Background: 5.72204589844e-06
+(Data-Background)/Error: 2.24132848735e-06
+Bin: 18
+Data: 25.3999996185
+Background: 25.3999919891
+Data Error: 2.35767552292
+Data-Background: 7.62939453125e-06
+(Data-Background)/Error: 3.2359815662e-06
+Bin: 19
+Data: 31.6000003815
+Background: 31.5999908447
+Data Error: 2.61735082104
+Data-Background: 9.53674316406e-06
+(Data-Background)/Error: 3.64366254895e-06
+Bin: 20
+Data: 26.0
+Background: 25.9999904633
+Data Error: 2.38409585769
+Data-Background: 9.53674316406e-06
+(Data-Background)/Error: 4.00015088878e-06
+Bin: 21
+Data: 22.7999992371
+Background: 22.799993515
+Data Error: 2.23942096096
+Data-Background: 5.72204589844e-06
+(Data-Background)/Error: 2.55514528004e-06
+Bin: 22
+Data: 22.6000003815
+Background: 22.5999965668
+Data Error: 2.2300525816
+Data-Background: 3.81469726562e-06
+(Data-Background)/Error: 1.71058624227e-06
+Bin: 23
+Data: 21.7999992371
+Background: 21.7999973297
+Data Error: 2.19215966656
+Data-Background: 1.90734863281e-06
+(Data-Background)/Error: 8.70077422693e-07
+Bin: 24
+Data: 20.0
+Background: 20.0
+Data Error: 2.10428339535
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 25
+Data: 21.6000003815
+Background: 21.6000003815
+Data Error: 2.18257872748
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 26
+Data: 15.8000001907
+Background: 15.8000001907
+Data Error: 1.88247314395
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 27
+Data: 17.3999996185
+Background: 17.3999996185
+Data Error: 1.97007640447
+Data-Background: 0.0
+(Data-Background)/Error: 0.0
+Bin: 28
+Data: 17.3999996185
+Background: 17.4000015259
+Data Error: 1.97007640447
+Data-Background: -1.90734863281e-06
+(Data-Background)/Error: -9.68159726435e-07
+Bin: 29
+Data: 12.6000003815
+Background: 12.6000013351
+Data Error: 1.69288200932
+Data-Background: -9.53674316406e-07
+(Data-Background)/Error: -5.63343641881e-07
+Bin: 30
+Data: 15.0
+Background: 15.0000009537
+Data Error: 1.83701592004
+Data-Background: -9.53674316406e-07
+(Data-Background)/Error: -5.19143196312e-07
+Bin: 31
+Data: 8.80000019073
+Background: 8.80000114441
+Data Error: 1.43318664503
+Data-Background: -9.53674316406e-07
+(Data-Background)/Error: -6.65422274003e-07
+Bin: 32
+Data: 8.39999961853
+Background: 8.40000247955
+Data Error: 1.40284409553
+Data-Background: -2.86102294922e-06
+(Data-Background)/Error: -2.03944469548e-06
+Bin: 33
+Data: 6.0
+Background: 6.00000095367
+Data Error: 1.20341727751
+Data-Background: -9.53674316406e-07
+(Data-Background)/Error: -7.92471850144e-07
+Type: fail fit_b ptbin8
+Bin: 4
+Data: 103.199996948
+Background: 103.714530945
+Data Error: 4.6449844827
+Data-Background: -0.514533996582
+(Data-Background)/Error: -0.110771951661
+Bin: 5
+Data: 76.5999984741
+Background: 76.1558990479
+Data Error: 4.01623777886
+Data-Background: 0.44409942627
+(Data-Background)/Error: 0.110575979492
+Bin: 6
+Data: 66.5999984741
+Background: 64.8359680176
+Data Error: 3.75197703671
+Data-Background: 1.76403045654
+(Data-Background)/Error: 0.470160248659
+Bin: 7
+Data: 60.7999992371
+Background: 60.4410667419
+Data Error: 3.58954848481
+Data-Background: 0.358932495117
+(Data-Background)/Error: 0.0999937726529
+Bin: 8
+Data: 54.4000015259
+Background: 53.7032012939
+Data Error: 3.40105505247
+Data-Background: 0.696800231934
+(Data-Background)/Error: 0.204877669189
+Bin: 9
+Data: 47.2000007629
+Background: 49.1171951294
+Data Error: 3.17522128266
+Data-Background: -1.91719436646
+(Data-Background)/Error: -0.603798663396
+Bin: 10
+Data: 45.2000007629
+Background: 44.1531219482
+Data Error: 3.1094838069
+Data-Background: 1.0468788147
+(Data-Background)/Error: 0.336672862671
+Bin: 11
+Data: 44.5999984741
+Background: 44.167930603
+Data Error: 3.08948071177
+Data-Background: 0.432067871094
+(Data-Background)/Error: 0.139851292629
+Bin: 12
+Data: 35.4000015259
+Background: 35.3177261353
+Data Error: 2.76402593924
+Data-Background: 0.082275390625
+(Data-Background)/Error: 0.029766504524
+Bin: 13
+Data: 33.2000007629
+Background: 34.8882293701
+Data Error: 2.68012517214
+Data-Background: -1.68822860718
+(Data-Background)/Error: -0.629906627021
+Bin: 14
+Data: 33.0
+Background: 32.9128684998
+Data Error: 2.67236214871
+Data-Background: 0.0871315002441
+(Data-Background)/Error: 0.0326046753379
+Bin: 15
+Data: 33.4000015259
+Background: 32.798084259
+Data Error: 2.68786491023
+Data-Background: 0.601917266846
+(Data-Background)/Error: 0.223938809036
+Bin: 16
+Data: 24.2000007629
+Background: 25.0103988647
+Data Error: 2.30388499121
+Data-Background: -0.810398101807
+(Data-Background)/Error: -0.351752845692
+Bin: 17
+Data: 30.0
+Background: 30.5946331024
+Data Error: 2.55297067374
+Data-Background: -0.594633102417
+(Data-Background)/Error: -0.232918109296
+Bin: 18
+Data: 25.3999996185
+Background: 25.3195667267
+Data Error: 2.35767552292
+Data-Background: 0.0804328918457
+(Data-Background)/Error: 0.0341153356617
+Bin: 19
+Data: 31.6000003815
+Background: 30.3030033112
+Data Error: 2.61735082104
+Data-Background: 1.29699707031
+(Data-Background)/Error: 0.495538106657
+Bin: 20
+Data: 26.0
+Background: 26.6832408905
+Data Error: 2.38409585769
+Data-Background: -0.683240890503
+(Data-Background)/Error: -0.286582810125
+Bin: 21
+Data: 22.7999992371
+Background: 23.2396888733
+Data Error: 2.23942096096
+Data-Background: -0.43968963623
+(Data-Background)/Error: -0.196340770179
+Bin: 22
+Data: 22.6000003815
+Background: 23.3303623199
+Data Error: 2.2300525816
+Data-Background: -0.730361938477
+(Data-Background)/Error: -0.327508841945
+Bin: 23
+Data: 21.7999992371
+Background: 21.1150150299
+Data Error: 2.19215966656
+Data-Background: 0.684984207153
+(Data-Background)/Error: 0.312470034734
+Bin: 24
+Data: 20.0
+Background: 19.6663532257
+Data Error: 2.10428339535
+Data-Background: 0.333646774292
+(Data-Background)/Error: 0.158556007727
+Bin: 25
+Data: 21.6000003815
+Background: 20.254524231
+Data Error: 2.18257872748
+Data-Background: 1.34547615051
+(Data-Background)/Error: 0.616461680659
+Bin: 26
+Data: 15.8000001907
+Background: 16.07837677
+Data Error: 1.88247314395
+Data-Background: -0.278376579285
+(Data-Background)/Error: -0.147878114585
+Bin: 27
+Data: 17.3999996185
+Background: 16.7995815277
+Data Error: 1.97007640447
+Data-Background: 0.60041809082
+(Data-Background)/Error: 0.304768936604
+Bin: 28
+Data: 17.3999996185
+Background: 17.493221283
+Data Error: 1.97007640447
+Data-Background: -0.0932216644287
+(Data-Background)/Error: -0.0473188066295
+Bin: 29
+Data: 12.6000003815
+Background: 13.1963663101
+Data Error: 1.69288200932
+Data-Background: -0.59636592865
+(Data-Background)/Error: -0.352278496295
+Bin: 30
+Data: 15.0
+Background: 14.475897789
+Data Error: 1.83701592004
+Data-Background: 0.524102210999
+(Data-Background)/Error: 0.285300854108
+Bin: 31
+Data: 8.80000019073
+Background: 9.49470996857
+Data Error: 1.43318664503
+Data-Background: -0.694709777832
+(Data-Background)/Error: -0.484730848031
+Bin: 32
+Data: 8.39999961853
+Background: 8.23401927948
+Data Error: 1.40284409553
+Data-Background: 0.16598033905
+(Data-Background)/Error: 0.118317024379
+Bin: 33
+Data: 6.0
+Background: 6.26737451553
+Data Error: 1.20341727751
+Data-Background: -0.267374515533
+(Data-Background)/Error: -0.222179389086
+draw Diagnositcs Finished

@@ -1,0 +1,51 @@
+# Datacard for <Channel (ptbin4fail) instance at 0x7f274b8f3290> generated on 2022-10-21 14:31:51.773544
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 1 # number of samples minus 1
+kmax 0 # number of nuisance parameters
+shapes * ptbin4fail testModel.root testModel:ptbin4fail_$PROCESS testModel:ptbin4fail_$PROCESS_$SYSTEMATIC
+bin ptbin4fail
+observation 54251.490
+bin      ptbin4fail  ptbin4fail
+process       Sig25        Data
+process           0           1
+rate        346.978       1.000
+Dataparam_ptbin4_msdbin1 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin4_msdbin9 extArg testModel.root:testModel
+ptbin4fail_Data_bin0 extArg testModel.root:testModel
+ptbin4fail_Data_bin14 extArg testModel.root:testModel
+ptbin4fail_Data_bin15 extArg testModel.root:testModel
+ptbin4fail_Data_bin16 extArg testModel.root:testModel
+ptbin4fail_Data_bin17 extArg testModel.root:testModel
+ptbin4fail_Data_bin18 extArg testModel.root:testModel
+ptbin4fail_Data_bin19 extArg testModel.root:testModel
+ptbin4fail_Data_bin20 extArg testModel.root:testModel
+ptbin4fail_Data_bin21 extArg testModel.root:testModel
+ptbin4fail_Data_bin22 extArg testModel.root:testModel
+ptbin4fail_Data_bin23 extArg testModel.root:testModel
+ptbin4fail_Data_bin24 extArg testModel.root:testModel
+ptbin4fail_Data_bin25 extArg testModel.root:testModel
+ptbin4fail_Data_bin26 extArg testModel.root:testModel
+ptbin4fail_Data_bin27 extArg testModel.root:testModel
+ptbin4fail_Data_bin28 extArg testModel.root:testModel
+ptbin4fail_Data_bin29 extArg testModel.root:testModel
+ptbin4fail_Data_bin30 extArg testModel.root:testModel
+ptbin4fail_Data_bin31 extArg testModel.root:testModel
+ptbin4fail_Data_bin32 extArg testModel.root:testModel
+ptbin4fail_Data_bin33 extArg testModel.root:testModel
+ptbin4fail_Data_bin34 extArg testModel.root:testModel
+ptbin4fail_Data_bin35 extArg testModel.root:testModel
+ptbin4fail_Data_bin36 extArg testModel.root:testModel
+ptbin4fail_Data_bin37 extArg testModel.root:testModel
+ptbin4fail_Data_bin38 extArg testModel.root:testModel
+ptbin4fail_Data_bin39 extArg testModel.root:testModel

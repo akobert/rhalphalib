@@ -1,0 +1,81 @@
+# Datacard for <Channel (ptbin11pass) instance at 0x7f55de6d1ad0> generated on 2022-10-10 12:16:18.944485
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 4 # number of samples minus 1
+kmax 9 # number of nuisance parameters
+shapes * ptbin11pass testModel.root testModel:ptbin11pass_$PROCESS testModel:ptbin11pass_$PROCESS_$SYSTEMATIC
+bin ptbin11pass
+observation 5002.000
+bin      ptbin11pass  ptbin11pass  ptbin11pass  ptbin11pass  ptbin11pass
+process        Sig25        TTBar       WGamma       ZGamma         Data
+process            0            1            2            3            4
+rate         131.335      804.426      113.263       58.563        1.000
+tf_MCtempl_deco0 param 0 1
+tf_MCtempl_deco1 param 0 1
+tf_MCtempl_deco2 param 0 1
+tf_MCtempl_deco3 param 0 1
+tf_MCtempl_deco4 param 0 1
+tf_MCtempl_deco5 param 0 1
+tf_MCtempl_deco6 param 0 1
+tf_MCtempl_deco7 param 0 1
+tf_MCtempl_deco8 param 0 1
+Dataparam_ptbin11_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin23 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin11_msdbin9 extArg testModel.root:testModel
+WGeffSF_2018 extArg testModel.root:testModel
+WGnormSF_2018 extArg testModel.root:testModel
+ZGeffSF_2018 extArg testModel.root:testModel
+ZGnormSF_2018 extArg testModel.root:testModel
+ptbin11pass_Data_bin0 extArg testModel.root:testModel
+ptbin11pass_Data_bin1 extArg testModel.root:testModel
+ptbin11pass_Data_bin26 extArg testModel.root:testModel
+ptbin11pass_Data_bin27 extArg testModel.root:testModel
+ptbin11pass_Data_bin28 extArg testModel.root:testModel
+ptbin11pass_Data_bin29 extArg testModel.root:testModel
+ptbin11pass_Data_bin30 extArg testModel.root:testModel
+ptbin11pass_Data_bin31 extArg testModel.root:testModel
+ptbin11pass_Data_bin32 extArg testModel.root:testModel
+ptbin11pass_Data_bin33 extArg testModel.root:testModel
+ptbin11pass_Data_bin34 extArg testModel.root:testModel
+ptbin11pass_Data_bin35 extArg testModel.root:testModel
+ptbin11pass_Data_bin36 extArg testModel.root:testModel
+ptbin11pass_Data_bin37 extArg testModel.root:testModel
+ptbin11pass_Data_bin38 extArg testModel.root:testModel
+ptbin11pass_Data_bin39 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par2 extArg testModel.root:testModel
+tqqeffSF_2018 extArg testModel.root:testModel
+tqqnormSF_2018 extArg testModel.root:testModel
+WGeffSF_2018_effect_ptbin11pass_WGamma rateParam ptbin11pass WGamma (1*@0) WGeffSF_2018
+WGnormSF_2018_effect_ptbin11pass_WGamma rateParam ptbin11pass WGamma (1*@0) WGnormSF_2018
+ZGeffSF_2018_effect_ptbin11pass_ZGamma rateParam ptbin11pass ZGamma (1*@0) ZGeffSF_2018
+ZGnormSF_2018_effect_ptbin11pass_ZGamma rateParam ptbin11pass ZGamma (1*@0) ZGnormSF_2018
+tqqeffSF_2018_effect_ptbin11pass_TTBar rateParam ptbin11pass TTBar (1*@0) tqqeffSF_2018
+tqqnormSF_2018_effect_ptbin11pass_TTBar rateParam ptbin11pass TTBar (1*@0) tqqnormSF_2018

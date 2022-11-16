@@ -1,0 +1,63 @@
+# Datacard for <Channel (ptbin12fail) instance at 0x7fd04fe07090> generated on 2022-10-10 12:16:31.682471
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 4 # number of samples minus 1
+kmax 0 # number of nuisance parameters
+shapes * ptbin12fail testModel.root testModel:ptbin12fail_$PROCESS testModel:ptbin12fail_$PROCESS_$SYSTEMATIC
+bin ptbin12fail
+observation 7777.000
+bin      ptbin12fail  ptbin12fail  ptbin12fail  ptbin12fail  ptbin12fail
+process        Sig25        TTBar       WGamma       ZGamma         Data
+process            0            1            2            3            4
+rate         106.264      450.298       70.138       27.803        1.000
+Dataparam_ptbin12_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin23 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin26 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin27 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin28 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin29 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin30 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin31 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin32 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin12_msdbin9 extArg testModel.root:testModel
+WGeffSF_2018 extArg testModel.root:testModel
+WGnormSF_2018 extArg testModel.root:testModel
+ZGeffSF_2018 extArg testModel.root:testModel
+ZGnormSF_2018 extArg testModel.root:testModel
+ptbin12fail_Data_bin0 extArg testModel.root:testModel
+ptbin12fail_Data_bin1 extArg testModel.root:testModel
+ptbin12fail_Data_bin2 extArg testModel.root:testModel
+ptbin12fail_Data_bin33 extArg testModel.root:testModel
+ptbin12fail_Data_bin34 extArg testModel.root:testModel
+ptbin12fail_Data_bin35 extArg testModel.root:testModel
+ptbin12fail_Data_bin36 extArg testModel.root:testModel
+ptbin12fail_Data_bin37 extArg testModel.root:testModel
+ptbin12fail_Data_bin38 extArg testModel.root:testModel
+ptbin12fail_Data_bin39 extArg testModel.root:testModel
+tqqeffSF_2018 extArg testModel.root:testModel
+tqqnormSF_2018 extArg testModel.root:testModel
+WGeffSF_2018_effect_ptbin12fail_WGamma rateParam ptbin12fail WGamma (((1-@0)*0.5506878244465659)+1) WGeffSF_2018
+WGnormSF_2018_effect_ptbin12fail_WGamma rateParam ptbin12fail WGamma (1*@0) WGnormSF_2018
+ZGeffSF_2018_effect_ptbin12fail_ZGamma rateParam ptbin12fail ZGamma (((1-@0)*0.738998446568028)+1) ZGeffSF_2018
+ZGnormSF_2018_effect_ptbin12fail_ZGamma rateParam ptbin12fail ZGamma (1*@0) ZGnormSF_2018
+tqqeffSF_2018_effect_ptbin12fail_TTBar rateParam ptbin12fail TTBar (((1-@0)*0.7035378234811591)+1) tqqeffSF_2018
+tqqnormSF_2018_effect_ptbin12fail_TTBar rateParam ptbin12fail TTBar (1*@0) tqqnormSF_2018
