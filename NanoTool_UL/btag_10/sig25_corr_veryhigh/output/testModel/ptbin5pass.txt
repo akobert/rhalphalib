@@ -1,0 +1,129 @@
+# Datacard for <Channel (ptbin5pass) instance at 0x7fe38bbb16d0> generated on 2022-12-19 11:26:35.116639
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 4 # number of samples minus 1
+kmax 42 # number of nuisance parameters
+shapes * ptbin5pass testModel.root testModel:ptbin5pass_$PROCESS testModel:ptbin5pass_$PROCESS_$SYSTEMATIC
+bin ptbin5pass
+observation 8766.000
+bin                 ptbin5pass  ptbin5pass  ptbin5pass  ptbin5pass  ptbin5pass
+process                  Sig25       TTBar      WGamma      ZGamma        Data
+process                      0           1           2           3           4
+rate                   165.071      56.470      58.975      19.364       1.000
+WGeffSF_2018 lnN             -           -       1.100           -           -
+WGnormSF_2018 lnN            -           -       1.100           -           -
+ZGeffSF_2018 lnN             -           -           -       1.100           -
+ZGnormSF_2018 lnN            -           -           -       1.100           -
+tqqeffSF_2018 lnN            -       1.100           -           -           -
+tqqnormSF_2018 lnN           -       1.100           -           -           -
+tf_MCtempl_deco0 param 0 1
+tf_MCtempl_deco1 param 0 1
+tf_MCtempl_deco10 param 0 1
+tf_MCtempl_deco11 param 0 1
+tf_MCtempl_deco12 param 0 1
+tf_MCtempl_deco13 param 0 1
+tf_MCtempl_deco14 param 0 1
+tf_MCtempl_deco15 param 0 1
+tf_MCtempl_deco16 param 0 1
+tf_MCtempl_deco17 param 0 1
+tf_MCtempl_deco18 param 0 1
+tf_MCtempl_deco19 param 0 1
+tf_MCtempl_deco2 param 0 1
+tf_MCtempl_deco20 param 0 1
+tf_MCtempl_deco21 param 0 1
+tf_MCtempl_deco22 param 0 1
+tf_MCtempl_deco23 param 0 1
+tf_MCtempl_deco24 param 0 1
+tf_MCtempl_deco25 param 0 1
+tf_MCtempl_deco26 param 0 1
+tf_MCtempl_deco27 param 0 1
+tf_MCtempl_deco28 param 0 1
+tf_MCtempl_deco29 param 0 1
+tf_MCtempl_deco3 param 0 1
+tf_MCtempl_deco30 param 0 1
+tf_MCtempl_deco31 param 0 1
+tf_MCtempl_deco32 param 0 1
+tf_MCtempl_deco33 param 0 1
+tf_MCtempl_deco34 param 0 1
+tf_MCtempl_deco35 param 0 1
+tf_MCtempl_deco4 param 0 1
+tf_MCtempl_deco5 param 0 1
+tf_MCtempl_deco6 param 0 1
+tf_MCtempl_deco7 param 0 1
+tf_MCtempl_deco8 param 0 1
+tf_MCtempl_deco9 param 0 1
+Dataparam_ptbin5_msdbin1 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin5_msdbin9 extArg testModel.root:testModel
+ptbin5pass_Data_bin0 extArg testModel.root:testModel
+ptbin5pass_Data_bin17 extArg testModel.root:testModel
+ptbin5pass_Data_bin18 extArg testModel.root:testModel
+ptbin5pass_Data_bin19 extArg testModel.root:testModel
+ptbin5pass_Data_bin20 extArg testModel.root:testModel
+ptbin5pass_Data_bin21 extArg testModel.root:testModel
+ptbin5pass_Data_bin22 extArg testModel.root:testModel
+ptbin5pass_Data_bin23 extArg testModel.root:testModel
+ptbin5pass_Data_bin24 extArg testModel.root:testModel
+ptbin5pass_Data_bin25 extArg testModel.root:testModel
+ptbin5pass_Data_bin26 extArg testModel.root:testModel
+ptbin5pass_Data_bin27 extArg testModel.root:testModel
+ptbin5pass_Data_bin28 extArg testModel.root:testModel
+ptbin5pass_Data_bin29 extArg testModel.root:testModel
+ptbin5pass_Data_bin30 extArg testModel.root:testModel
+ptbin5pass_Data_bin31 extArg testModel.root:testModel
+ptbin5pass_Data_bin32 extArg testModel.root:testModel
+ptbin5pass_Data_bin33 extArg testModel.root:testModel
+ptbin5pass_Data_bin34 extArg testModel.root:testModel
+ptbin5pass_Data_bin35 extArg testModel.root:testModel
+ptbin5pass_Data_bin36 extArg testModel.root:testModel
+ptbin5pass_Data_bin37 extArg testModel.root:testModel
+ptbin5pass_Data_bin38 extArg testModel.root:testModel
+ptbin5pass_Data_bin39 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par5 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par5 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par5 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par3_rho_par5 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par4_rho_par5 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par3 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par4 extArg testModel.root:testModel
+tf_dataResidual_pt_par5_rho_par5 extArg testModel.root:testModel

@@ -1,4 +1,4 @@
-# Datacard for <Channel (ptbin8pass) instance at 0x7f7813da7e90> generated on 2022-11-15 15:22:40.636904
+# Datacard for <Channel (ptbin8pass) instance at 0x7fbc11565bd0> generated on 2022-12-05 16:43:04.595078
 imax 1 # number of categories ('bins' but here we are using shape templates)
 jmax 4 # number of samples minus 1
 kmax 31 # number of nuisance parameters

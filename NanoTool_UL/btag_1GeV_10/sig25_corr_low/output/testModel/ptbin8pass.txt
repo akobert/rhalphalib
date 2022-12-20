@@ -1,0 +1,235 @@
+# Datacard for <Channel (ptbin8pass) instance at 0x7f039a483210> generated on 2022-11-29 17:39:18.204875
+imax 1 # number of categories ('bins' but here we are using shape templates)
+jmax 4 # number of samples minus 1
+kmax 15 # number of nuisance parameters
+shapes * ptbin8pass testModel.root testModel:ptbin8pass_$PROCESS testModel:ptbin8pass_$PROCESS_$SYSTEMATIC
+bin ptbin8pass
+observation 556.000
+bin                 ptbin8pass  ptbin8pass  ptbin8pass  ptbin8pass  ptbin8pass
+process                  Sig25       TTBar      WGamma      ZGamma        Data
+process                      0           1           2           3           4
+rate                    16.619       8.035      16.649       9.634       1.000
+WGeffSF_2018 lnN             -           -       1.100           -           -
+WGnormSF_2018 lnN            -           -       1.100           -           -
+ZGeffSF_2018 lnN             -           -           -       1.100           -
+ZGnormSF_2018 lnN            -           -           -       1.100           -
+tqqeffSF_2018 lnN            -       1.100           -           -           -
+tqqnormSF_2018 lnN           -       1.100           -           -           -
+tf_MCtempl_deco0 param 0 1
+tf_MCtempl_deco1 param 0 1
+tf_MCtempl_deco2 param 0 1
+tf_MCtempl_deco3 param 0 1
+tf_MCtempl_deco4 param 0 1
+tf_MCtempl_deco5 param 0 1
+tf_MCtempl_deco6 param 0 1
+tf_MCtempl_deco7 param 0 1
+tf_MCtempl_deco8 param 0 1
+Dataparam_ptbin8_msdbin100 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin101 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin102 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin103 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin104 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin105 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin106 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin107 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin108 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin109 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin110 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin111 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin112 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin113 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin114 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin115 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin116 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin117 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin118 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin119 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin120 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin121 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin122 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin123 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin124 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin125 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin126 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin127 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin128 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin129 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin130 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin131 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin132 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin133 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin134 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin135 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin136 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin137 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin138 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin139 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin140 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin141 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin142 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin143 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin144 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin145 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin146 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin147 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin148 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin149 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin150 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin151 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin152 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin153 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin154 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin155 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin156 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin157 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin158 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin159 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin160 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin161 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin162 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin163 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin164 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin165 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin23 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin26 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin27 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin28 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin29 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin30 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin31 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin32 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin33 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin34 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin35 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin36 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin37 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin38 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin39 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin40 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin41 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin42 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin43 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin44 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin45 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin46 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin47 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin48 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin49 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin50 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin51 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin52 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin53 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin54 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin55 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin56 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin57 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin58 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin59 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin60 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin61 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin62 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin63 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin64 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin65 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin66 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin67 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin68 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin69 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin70 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin71 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin72 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin73 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin74 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin75 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin76 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin77 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin78 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin79 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin80 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin81 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin82 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin83 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin84 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin85 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin86 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin87 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin88 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin89 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin90 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin91 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin92 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin93 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin94 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin95 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin96 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin97 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin98 extArg testModel.root:testModel
+Dataparam_ptbin8_msdbin99 extArg testModel.root:testModel
+ptbin8pass_Data_bin0 extArg testModel.root:testModel
+ptbin8pass_Data_bin1 extArg testModel.root:testModel
+ptbin8pass_Data_bin10 extArg testModel.root:testModel
+ptbin8pass_Data_bin11 extArg testModel.root:testModel
+ptbin8pass_Data_bin12 extArg testModel.root:testModel
+ptbin8pass_Data_bin13 extArg testModel.root:testModel
+ptbin8pass_Data_bin166 extArg testModel.root:testModel
+ptbin8pass_Data_bin167 extArg testModel.root:testModel
+ptbin8pass_Data_bin168 extArg testModel.root:testModel
+ptbin8pass_Data_bin169 extArg testModel.root:testModel
+ptbin8pass_Data_bin170 extArg testModel.root:testModel
+ptbin8pass_Data_bin171 extArg testModel.root:testModel
+ptbin8pass_Data_bin172 extArg testModel.root:testModel
+ptbin8pass_Data_bin173 extArg testModel.root:testModel
+ptbin8pass_Data_bin174 extArg testModel.root:testModel
+ptbin8pass_Data_bin175 extArg testModel.root:testModel
+ptbin8pass_Data_bin176 extArg testModel.root:testModel
+ptbin8pass_Data_bin177 extArg testModel.root:testModel
+ptbin8pass_Data_bin178 extArg testModel.root:testModel
+ptbin8pass_Data_bin179 extArg testModel.root:testModel
+ptbin8pass_Data_bin180 extArg testModel.root:testModel
+ptbin8pass_Data_bin181 extArg testModel.root:testModel
+ptbin8pass_Data_bin182 extArg testModel.root:testModel
+ptbin8pass_Data_bin183 extArg testModel.root:testModel
+ptbin8pass_Data_bin184 extArg testModel.root:testModel
+ptbin8pass_Data_bin185 extArg testModel.root:testModel
+ptbin8pass_Data_bin186 extArg testModel.root:testModel
+ptbin8pass_Data_bin187 extArg testModel.root:testModel
+ptbin8pass_Data_bin188 extArg testModel.root:testModel
+ptbin8pass_Data_bin189 extArg testModel.root:testModel
+ptbin8pass_Data_bin190 extArg testModel.root:testModel
+ptbin8pass_Data_bin191 extArg testModel.root:testModel
+ptbin8pass_Data_bin192 extArg testModel.root:testModel
+ptbin8pass_Data_bin193 extArg testModel.root:testModel
+ptbin8pass_Data_bin194 extArg testModel.root:testModel
+ptbin8pass_Data_bin195 extArg testModel.root:testModel
+ptbin8pass_Data_bin196 extArg testModel.root:testModel
+ptbin8pass_Data_bin197 extArg testModel.root:testModel
+ptbin8pass_Data_bin198 extArg testModel.root:testModel
+ptbin8pass_Data_bin199 extArg testModel.root:testModel
+ptbin8pass_Data_bin2 extArg testModel.root:testModel
+ptbin8pass_Data_bin3 extArg testModel.root:testModel
+ptbin8pass_Data_bin4 extArg testModel.root:testModel
+ptbin8pass_Data_bin5 extArg testModel.root:testModel
+ptbin8pass_Data_bin6 extArg testModel.root:testModel
+ptbin8pass_Data_bin7 extArg testModel.root:testModel
+ptbin8pass_Data_bin8 extArg testModel.root:testModel
+ptbin8pass_Data_bin9 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par2 extArg testModel.root:testModel

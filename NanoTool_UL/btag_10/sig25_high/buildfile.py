@@ -28,30 +28,30 @@ class Build:
 		self.f = TFile.Open(dfile1, "READ")
 		self.f.ls();
 
-		self.Data_p7_w = self.f.Get("jet_pt_soft_pass_wide4")
-		self.Data_f7_w = self.f.Get("jet_pt_soft_fail_wide4")
+		self.Data_p7_w = self.f.Get("jet_pt_soft_pass_wide4_wide")
+		self.Data_f7_w = self.f.Get("jet_pt_soft_fail_wide4_wide")
 		self.Data_p1 = self.f.Get("pass_soft")	
 		self.Data_f1 = self.f.Get("fail_soft")	
 
 		self.g = TFile(bfile1, "READ")
-		self.TTBar_p7_w = self.g.Get("jet_pt_soft_pass_wide4")
-		self.TTBar_f7_w = self.g.Get("jet_pt_soft_fail_wide4")
+		self.TTBar_p7_w = self.g.Get("jet_pt_soft_pass_wide4_wide")
+		self.TTBar_f7_w = self.g.Get("jet_pt_soft_fail_wide4_wide")
 		
 		self.h = TFile(bfile2, "READ")
-		self.wgamma_p7_w = self.h.Get("jet_pt_soft_pass_wide4")
-		self.wgamma_f7_w = self.h.Get("jet_pt_soft_fail_wide4")
+		self.wgamma_p7_w = self.h.Get("jet_pt_soft_pass_wide4_wide")
+		self.wgamma_f7_w = self.h.Get("jet_pt_soft_fail_wide4_wide")
 		
 		self.j = TFile(bfile3, "READ")
-		self.zgamma_p7_w = self.j.Get("jet_pt_soft_pass_wide4")
-		self.zgamma_f7_w = self.j.Get("jet_pt_soft_fail_wide4")
+		self.zgamma_p7_w = self.j.Get("jet_pt_soft_pass_wide4_wide")
+		self.zgamma_f7_w = self.j.Get("jet_pt_soft_fail_wide4_wide")
 		
 		self.k = TFile(bfile4, "READ")
-		self.GJ_p7_w = self.k.Get("jet_pt_soft_pass_wide4")
-		self.GJ_f7_w = self.k.Get("jet_pt_soft_fail_wide4")
+		self.GJ_p7_w = self.k.Get("jet_pt_soft_pass_wide4_wide")
+		self.GJ_f7_w = self.k.Get("jet_pt_soft_fail_wide4_wide")
 
 		self.s1 = TFile(sfile1, "READ")
-		self.sig1_p7_w = self.s1.Get("jet_pt_soft_pass_wide4")
-		self.sig1_f7_w = self.s1.Get("jet_pt_soft_fail_wide4")
+		self.sig1_p7_w = self.s1.Get("jet_pt_soft_pass_wide4_wide")
+		self.sig1_f7_w = self.s1.Get("jet_pt_soft_fail_wide4_wide")
 		
 
 

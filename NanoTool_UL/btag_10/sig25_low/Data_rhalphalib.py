@@ -67,7 +67,7 @@ def get_template(sName, passed, ptbin, obs, syst, muon=False):
     sumw2 = []
     #for i in range(1, h.GetNbinsX()+1):
     #for i in range(1, 11):
-    for i in range(1, 11):
+    for i in range(1, 41):
         sumw += [h.GetBinContent(ptbin, i)]
         sumw2 += [h.GetBinError(ptbin, i)*h.GetBinError(ptbin, i)]
 
@@ -243,7 +243,7 @@ def test_rhalphabet(tmpdir,
     npt = len(ptbins) - 1
 #    msdbins = np.linspace(0, 100, 21)
 #    msdbins = np.linspace(0, 50, 11)
-    msdbins = np.linspace(0, 50, 11)
+    msdbins = np.linspace(0, 200, 41)
     msd = rl.Observable('msd', msdbins)
 
     # here we derive these all at once with 2D array

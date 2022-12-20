@@ -1,0 +1,278 @@
+Combination of ptbin0pass=ptbin0pass.txt  ptbin0fail=ptbin0fail.txt  ptbin1pass=ptbin1pass.txt  ptbin1fail=ptbin1fail.txt  ptbin2pass=ptbin2pass.txt  ptbin2fail=ptbin2fail.txt  ptbin3pass=ptbin3pass.txt  ptbin3fail=ptbin3fail.txt
+imax 8 number of bins
+jmax 4 number of processes minus 1
+kmax 15 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes *           ptbin0fail  testModel.root testModel:ptbin0fail_$PROCESS testModel:ptbin0fail_$PROCESS_$SYSTEMATIC
+shapes *           ptbin0pass  testModel.root testModel:ptbin0pass_$PROCESS testModel:ptbin0pass_$PROCESS_$SYSTEMATIC
+shapes *           ptbin1fail  testModel.root testModel:ptbin1fail_$PROCESS testModel:ptbin1fail_$PROCESS_$SYSTEMATIC
+shapes *           ptbin1pass  testModel.root testModel:ptbin1pass_$PROCESS testModel:ptbin1pass_$PROCESS_$SYSTEMATIC
+shapes *           ptbin2fail  testModel.root testModel:ptbin2fail_$PROCESS testModel:ptbin2fail_$PROCESS_$SYSTEMATIC
+shapes *           ptbin2pass  testModel.root testModel:ptbin2pass_$PROCESS testModel:ptbin2pass_$PROCESS_$SYSTEMATIC
+shapes *           ptbin3fail  testModel.root testModel:ptbin3fail_$PROCESS testModel:ptbin3fail_$PROCESS_$SYSTEMATIC
+shapes *           ptbin3pass  testModel.root testModel:ptbin3pass_$PROCESS testModel:ptbin3pass_$PROCESS_$SYSTEMATIC
+----------------------------------------------------------------------------------------------------------------------------------
+bin          ptbin0pass  ptbin0fail  ptbin1pass  ptbin1fail  ptbin2pass  ptbin2fail  ptbin3pass  ptbin3fail
+observation  789         10165       1077        13855       1044        11823       295         3078      
+----------------------------------------------------------------------------------------------------------------------------------
+bin                               ptbin0pass  ptbin0pass  ptbin0pass  ptbin0pass  ptbin0pass  ptbin0fail  ptbin0fail  ptbin0fail  ptbin0fail  ptbin0fail  ptbin1pass  ptbin1pass  ptbin1pass  ptbin1pass  ptbin1pass  ptbin1fail  ptbin1fail  ptbin1fail  ptbin1fail  ptbin1fail  ptbin2pass  ptbin2pass  ptbin2pass  ptbin2pass  ptbin2pass  ptbin2fail  ptbin2fail  ptbin2fail  ptbin2fail  ptbin2fail  ptbin3pass  ptbin3pass  ptbin3pass  ptbin3pass  ptbin3pass  ptbin3fail  ptbin3fail  ptbin3fail  ptbin3fail  ptbin3fail
+process                           Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data        Sig25       WGamma      TTBar       ZGamma      Data      
+process                           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4           0           1           2           3           4         
+rate                              20.855      6.517       0.173       2.911       1           107.373     38.697      0.728       20.793      1           29.439      15.452      0.525       8.348       1           170.633     67.142      1.17        35.853      1           32.761      19.842      0.888       15.461      1           169.533     87.966      1.734       52.536      1           11.178      7.436       0.204       5.678       1           58.986      32.961      0.391       19.678      1         
+----------------------------------------------------------------------------------------------------------------------------------
+WGeffSF_2018            lnN       -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -         
+WGnormSF_2018           lnN       -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -         
+ZGeffSF_2018            lnN       -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -         
+ZGnormSF_2018           lnN       -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -         
+tqqeffSF_2018           lnN       -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -         
+tqqnormSF_2018          lnN       -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -           -           -           1.1         -           -         
+tf_MCtempl_deco1  param  0 1
+tf_MCtempl_deco0  param  0 1
+tf_MCtempl_deco3  param  0 1
+tf_MCtempl_deco2  param  0 1
+tf_MCtempl_deco5  param  0 1
+tf_MCtempl_deco4  param  0 1
+tf_MCtempl_deco7  param  0 1
+tf_MCtempl_deco6  param  0 1
+tf_MCtempl_deco8  param  0 1
+Dataparam_ptbin2_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin26 extArg testModel.root:testModel
+ptbin1pass_Data_bin0 extArg testModel.root:testModel
+ptbin1pass_Data_bin1 extArg testModel.root:testModel
+ptbin3pass_Data_bin36 extArg testModel.root:testModel
+ptbin0fail_Data_bin38 extArg testModel.root:testModel
+ptbin0fail_Data_bin39 extArg testModel.root:testModel
+ptbin0fail_Data_bin36 extArg testModel.root:testModel
+ptbin0fail_Data_bin37 extArg testModel.root:testModel
+ptbin0fail_Data_bin34 extArg testModel.root:testModel
+ptbin0fail_Data_bin35 extArg testModel.root:testModel
+ptbin0fail_Data_bin32 extArg testModel.root:testModel
+ptbin0fail_Data_bin33 extArg testModel.root:testModel
+ptbin0fail_Data_bin30 extArg testModel.root:testModel
+ptbin0fail_Data_bin31 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin23 extArg testModel.root:testModel
+ptbin2pass_Data_bin0 extArg testModel.root:testModel
+ptbin3pass_Data_bin33 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin32 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin9 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin6 extArg testModel.root:testModel
+ptbin3pass_Data_bin34 extArg testModel.root:testModel
+ptbin3fail_Data_bin1 extArg testModel.root:testModel
+ptbin3fail_Data_bin0 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin19 extArg testModel.root:testModel
+ptbin3fail_Data_bin38 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin7 extArg testModel.root:testModel
+ptbin0fail_Data_bin17 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin2 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par2_rho_par2 extArg testModel.root:testModel
+ptbin0fail_Data_bin18 extArg testModel.root:testModel
+ptbin0fail_Data_bin19 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par0 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par1_rho_par2 extArg testModel.root:testModel
+ptbin2fail_Data_bin28 extArg testModel.root:testModel
+ptbin3fail_Data_bin2 extArg testModel.root:testModel
+ptbin2fail_Data_bin27 extArg testModel.root:testModel
+ptbin2fail_Data_bin26 extArg testModel.root:testModel
+ptbin3fail_Data_bin37 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin13 extArg testModel.root:testModel
+ptbin3pass_Data_bin37 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin14 extArg testModel.root:testModel
+ptbin1fail_Data_bin35 extArg testModel.root:testModel
+ptbin1fail_Data_bin34 extArg testModel.root:testModel
+ptbin1fail_Data_bin37 extArg testModel.root:testModel
+ptbin1fail_Data_bin36 extArg testModel.root:testModel
+ptbin1fail_Data_bin31 extArg testModel.root:testModel
+ptbin1fail_Data_bin30 extArg testModel.root:testModel
+ptbin1fail_Data_bin33 extArg testModel.root:testModel
+ptbin1fail_Data_bin32 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin29 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin22 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin21 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin20 extArg testModel.root:testModel
+ptbin1fail_Data_bin39 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par2 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par1 extArg testModel.root:testModel
+tf_dataResidual_pt_par0_rho_par0 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin25 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin24 extArg testModel.root:testModel
+ptbin3pass_Data_bin2 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin28 extArg testModel.root:testModel
+ptbin3pass_Data_bin1 extArg testModel.root:testModel
+ptbin2fail_Data_bin0 extArg testModel.root:testModel
+ptbin3pass_Data_bin39 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin10 extArg testModel.root:testModel
+ptbin2fail_Data_bin1 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin15 extArg testModel.root:testModel
+ptbin2pass_Data_bin1 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin17 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin10 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin13 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin12 extArg testModel.root:testModel
+ptbin1fail_Data_bin26 extArg testModel.root:testModel
+ptbin1fail_Data_bin27 extArg testModel.root:testModel
+ptbin1fail_Data_bin24 extArg testModel.root:testModel
+ptbin1fail_Data_bin25 extArg testModel.root:testModel
+ptbin1fail_Data_bin22 extArg testModel.root:testModel
+ptbin1fail_Data_bin23 extArg testModel.root:testModel
+ptbin1fail_Data_bin20 extArg testModel.root:testModel
+ptbin1fail_Data_bin21 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin11 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin30 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin31 extArg testModel.root:testModel
+ptbin1fail_Data_bin28 extArg testModel.root:testModel
+ptbin1fail_Data_bin29 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin9 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin3 extArg testModel.root:testModel
+ptbin0pass_Data_bin0 extArg testModel.root:testModel
+Dataparam_ptbin0_msdbin1 extArg testModel.root:testModel
+ptbin2fail_Data_bin34 extArg testModel.root:testModel
+ptbin2fail_Data_bin35 extArg testModel.root:testModel
+ptbin2fail_Data_bin36 extArg testModel.root:testModel
+ptbin2fail_Data_bin37 extArg testModel.root:testModel
+ptbin2fail_Data_bin30 extArg testModel.root:testModel
+ptbin2fail_Data_bin31 extArg testModel.root:testModel
+ptbin2fail_Data_bin32 extArg testModel.root:testModel
+ptbin2fail_Data_bin33 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin7 extArg testModel.root:testModel
+ptbin3fail_Data_bin36 extArg testModel.root:testModel
+ptbin2fail_Data_bin38 extArg testModel.root:testModel
+ptbin2fail_Data_bin39 extArg testModel.root:testModel
+ptbin1pass_Data_bin23 extArg testModel.root:testModel
+ptbin1pass_Data_bin22 extArg testModel.root:testModel
+ptbin1pass_Data_bin21 extArg testModel.root:testModel
+ptbin1pass_Data_bin20 extArg testModel.root:testModel
+ptbin0pass_Data_bin19 extArg testModel.root:testModel
+ptbin0pass_Data_bin18 extArg testModel.root:testModel
+ptbin1pass_Data_bin25 extArg testModel.root:testModel
+ptbin1pass_Data_bin24 extArg testModel.root:testModel
+ptbin1pass_Data_bin27 extArg testModel.root:testModel
+ptbin0pass_Data_bin17 extArg testModel.root:testModel
+ptbin1pass_Data_bin28 extArg testModel.root:testModel
+ptbin3pass_Data_bin38 extArg testModel.root:testModel
+ptbin1pass_Data_bin26 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin6 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin7 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin4 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin5 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin2 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin3 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin9 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin8 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin9 extArg testModel.root:testModel
+ptbin1pass_Data_bin29 extArg testModel.root:testModel
+ptbin0fail_Data_bin0 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin10 extArg testModel.root:testModel
+ptbin2fail_Data_bin29 extArg testModel.root:testModel
+ptbin1pass_Data_bin38 extArg testModel.root:testModel
+ptbin1pass_Data_bin39 extArg testModel.root:testModel
+ptbin1pass_Data_bin34 extArg testModel.root:testModel
+ptbin1pass_Data_bin35 extArg testModel.root:testModel
+ptbin1pass_Data_bin36 extArg testModel.root:testModel
+ptbin1pass_Data_bin37 extArg testModel.root:testModel
+ptbin1pass_Data_bin30 extArg testModel.root:testModel
+ptbin1pass_Data_bin31 extArg testModel.root:testModel
+ptbin1pass_Data_bin32 extArg testModel.root:testModel
+ptbin1pass_Data_bin33 extArg testModel.root:testModel
+ptbin3pass_Data_bin0 extArg testModel.root:testModel
+ptbin1fail_Data_bin38 extArg testModel.root:testModel
+ptbin2pass_Data_bin39 extArg testModel.root:testModel
+ptbin2pass_Data_bin38 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin27 extArg testModel.root:testModel
+ptbin2pass_Data_bin35 extArg testModel.root:testModel
+ptbin2pass_Data_bin34 extArg testModel.root:testModel
+ptbin2pass_Data_bin37 extArg testModel.root:testModel
+ptbin2pass_Data_bin36 extArg testModel.root:testModel
+ptbin2pass_Data_bin31 extArg testModel.root:testModel
+ptbin2pass_Data_bin30 extArg testModel.root:testModel
+ptbin2pass_Data_bin33 extArg testModel.root:testModel
+ptbin2pass_Data_bin32 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin24 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin25 extArg testModel.root:testModel
+ptbin0pass_Data_bin39 extArg testModel.root:testModel
+ptbin0pass_Data_bin38 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin20 extArg testModel.root:testModel
+Dataparam_ptbin2_msdbin21 extArg testModel.root:testModel
+ptbin1fail_Data_bin1 extArg testModel.root:testModel
+ptbin1fail_Data_bin0 extArg testModel.root:testModel
+ptbin0pass_Data_bin33 extArg testModel.root:testModel
+ptbin0pass_Data_bin32 extArg testModel.root:testModel
+ptbin0pass_Data_bin31 extArg testModel.root:testModel
+ptbin0pass_Data_bin30 extArg testModel.root:testModel
+ptbin0pass_Data_bin37 extArg testModel.root:testModel
+ptbin0pass_Data_bin36 extArg testModel.root:testModel
+ptbin0pass_Data_bin35 extArg testModel.root:testModel
+ptbin0pass_Data_bin34 extArg testModel.root:testModel
+ptbin0pass_Data_bin24 extArg testModel.root:testModel
+ptbin0pass_Data_bin25 extArg testModel.root:testModel
+ptbin0pass_Data_bin26 extArg testModel.root:testModel
+ptbin0pass_Data_bin27 extArg testModel.root:testModel
+ptbin0pass_Data_bin20 extArg testModel.root:testModel
+ptbin0pass_Data_bin21 extArg testModel.root:testModel
+ptbin0pass_Data_bin22 extArg testModel.root:testModel
+ptbin0pass_Data_bin23 extArg testModel.root:testModel
+ptbin3fail_Data_bin33 extArg testModel.root:testModel
+ptbin0pass_Data_bin28 extArg testModel.root:testModel
+ptbin0pass_Data_bin29 extArg testModel.root:testModel
+ptbin3fail_Data_bin35 extArg testModel.root:testModel
+ptbin3fail_Data_bin34 extArg testModel.root:testModel
+ptbin2pass_Data_bin28 extArg testModel.root:testModel
+ptbin2pass_Data_bin29 extArg testModel.root:testModel
+ptbin2pass_Data_bin26 extArg testModel.root:testModel
+ptbin2pass_Data_bin27 extArg testModel.root:testModel
+Dataparam_ptbin3_msdbin23 extArg testModel.root:testModel
+ptbin3fail_Data_bin39 extArg testModel.root:testModel
+ptbin3pass_Data_bin35 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin18 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin19 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin14 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin15 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin16 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin17 extArg testModel.root:testModel
+ptbin0fail_Data_bin29 extArg testModel.root:testModel
+ptbin0fail_Data_bin28 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin12 extArg testModel.root:testModel
+Dataparam_ptbin1_msdbin13 extArg testModel.root:testModel
+ptbin0fail_Data_bin25 extArg testModel.root:testModel
+ptbin0fail_Data_bin24 extArg testModel.root:testModel
+ptbin0fail_Data_bin27 extArg testModel.root:testModel
+ptbin0fail_Data_bin26 extArg testModel.root:testModel
+ptbin0fail_Data_bin21 extArg testModel.root:testModel
+ptbin0fail_Data_bin20 extArg testModel.root:testModel
+ptbin0fail_Data_bin23 extArg testModel.root:testModel
+ptbin0fail_Data_bin22 extArg testModel.root:testModel

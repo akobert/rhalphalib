@@ -52,10 +52,13 @@ def convertAsymGraph(TG, template, name):
 
 def convertBinNHist(H, template, name):
 	Hist = template.Clone(name)
-	for i in range(1,Hist.GetNbinsX()+1):
-		Hist.SetBinContent(i,H.GetBinContent(i))
-		Hist.SetBinError(i,H.GetBinError(i))
-	return Hist
+        for i in range(1,Hist.GetNbinsX()+1):
+                Hist.SetBinContent(i,H.GetBinContent(i))
+                if H.GetBinContent(i) > 0 and (name == "dataprefitnewprefit" or name == "datafit_bnewfit_b" or name == "datafit_snewfit_s"):
+                        Hist.SetBinError(i,math.sqrt(H.GetBinContent(i)))
+                else:
+                        Hist.SetBinError(i,H.GetBinError(i))
+        return Hist
 
 def Reroll(H, VARS, ZOOM):
 	X = TH1F("x_"+H.GetName(), ";"+VARS[2], len(VARS[1])-1, numpy.array(VARS[1]))
@@ -217,6 +220,7 @@ def drawDiagnostic(name, ifile1):
 					Hvec = []
 
 					for i in [cDATA, cTT, cTBKG, cSIG, cWG, cZG, cNRES]:
+						i.Scale(5.0)
 						Hvec.append(convertBinNHist(i, refH, i.GetName()+"new"+P))
 
 

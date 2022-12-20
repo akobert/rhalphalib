@@ -1,4 +1,4 @@
-# Datacard for <Channel (ptbin3fail) instance at 0x7f2608395190> generated on 2022-11-15 15:07:43.262396
+# Datacard for <Channel (ptbin3fail) instance at 0x7feffc45a810> generated on 2022-12-05 16:41:58.735722
 imax 1 # number of categories ('bins' but here we are using shape templates)
 jmax 4 # number of samples minus 1
 kmax 6 # number of nuisance parameters

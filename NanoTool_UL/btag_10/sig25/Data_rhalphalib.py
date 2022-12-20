@@ -67,7 +67,7 @@ def get_template(sName, passed, ptbin, obs, syst, muon=False):
     sumw2 = []
     #for i in range(1, h.GetNbinsX()+1):
     #for i in range(1, 11):
-    for i in range(1, 11):
+    for i in range(1, 41):
         sumw += [h.GetBinContent(ptbin, i)]
         sumw2 += [h.GetBinError(ptbin, i)*h.GetBinError(ptbin, i)]
 
@@ -243,7 +243,7 @@ def test_rhalphabet(tmpdir,
     npt = len(ptbins) - 1
 #    msdbins = np.linspace(0, 100, 21)
 #    msdbins = np.linspace(0, 50, 11)
-    msdbins = np.linspace(0, 50, 11)
+    msdbins = np.linspace(0, 200, 41)
     msd = rl.Observable('msd', msdbins)
 
     # here we derive these all at once with 2D array
@@ -296,7 +296,7 @@ def test_rhalphabet(tmpdir,
     initial_vals = initial_vals.reshape(4, 4)
     print(initial_vals)
 
-    tf_MCtempl = rl.BernsteinPoly('tf_MCtempl', (3, 3), ['pt', 'rho'], init_params=initial_vals, limits=(-50, 50))
+    tf_MCtempl = rl.BernsteinPoly('tf_MCtempl', (3, 3), ['pt', 'rho'], init_params=initial_vals, limits=(-100, 100))
     tf_MCtempl_params = GJeff * tf_MCtempl(ptscaled, rhoscaled)
     for ptbin in range(npt):
         failCh = GJmodel['ptbin%dfail' % ptbin]
@@ -382,7 +382,7 @@ def test_rhalphabet(tmpdir,
     decoVector = rl.DecorrelatedNuisanceVector.fromRooFitResult(tf_MCtempl.name + '_deco', GJfit, param_names)
     tf_MCtempl.parameters = decoVector.correlated_params.reshape(tf_MCtempl.parameters.shape)
     tf_MCtempl_params_final = tf_MCtempl(ptscaled, rhoscaled)
-    tf_dataResidual = rl.BernsteinPoly('tf_dataResidual', (3, 3), ['pt', 'rho'], limits=(-50, 50))
+    tf_dataResidual = rl.BernsteinPoly('tf_dataResidual', (3, 3), ['pt', 'rho'], limits=(-100, 100))
     tf_dataResidual_params = tf_dataResidual(ptscaled, rhoscaled)
     #tf_params = Dataeff * tf_MCtempl_params_final * tf_dataResidual_params
     tf_params = GJeff * tf_MCtempl_params_final * tf_dataResidual_params
