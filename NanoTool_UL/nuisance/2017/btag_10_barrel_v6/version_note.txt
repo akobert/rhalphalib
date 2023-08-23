@@ -1,0 +1,4 @@
+This repository lets W and Z freely float in the fit
+
+Also uses v5 widebins
+{0, 220, 230, 255, 290, 360, 1000, 2000}

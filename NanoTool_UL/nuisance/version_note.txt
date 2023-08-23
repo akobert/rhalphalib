@@ -1,0 +1,1 @@
+Restricts W and Z samples to 10% of pythia cross-section

@@ -1,0 +1,4 @@
+This repository lets W and Z freely float in the fit
+
+Also uses v8 widebins
+0, 120, 170, 220, 300, 400, 700, 1200, 2000
