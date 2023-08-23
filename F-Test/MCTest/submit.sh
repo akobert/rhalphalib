@@ -1,0 +1,16 @@
+python submit.py --pt=0 --rho=0 --njobs=10
+python submit.py --pt=0 --rho=1 --njobs=10
+python submit.py --pt=1 --rho=0 --njobs=10
+python submit.py --pt=1 --rho=1 --njobs=10
+python submit.py --pt=2 --rho=1 --njobs=10
+python submit.py --pt=1 --rho=2 --njobs=10
+python submit.py --pt=2 --rho=2 --njobs=10
+python submit.py --pt=2 --rho=3 --njobs=10
+python submit.py --pt=3 --rho=2 --njobs=10
+python submit.py --pt=3 --rho=3 --njobs=10
+python submit.py --pt=4 --rho=3 --njobs=10
+python submit.py --pt=3 --rho=4 --njobs=10
+python submit.py --pt=4 --rho=4 --njobs=10
+#python submit.py --pt=5 --rho=4 --njobs=10
+#python submit.py --pt=4 --rho=5 --njobs=10
+#python submit.py --pt=5 --rho=5 --njobs=10

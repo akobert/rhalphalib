@@ -1,0 +1,117 @@
+Info in <TFile::Recover>: /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root, recovered key TDirectoryFile:toys at address 282
+Info in <TFile::Recover>: /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root, recovered key TProcessID:ProcessID0 at address 389
+Info in <TFile::Recover>: /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root, recovered key TProcessID:ProcessID1 at address 544
+Info in <TFile::Recover>: /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root, recovered key RooWorkspace:w at address 699
+Error in <TFile::Recover>: Address = 390846	Nbytes = 0	=====E R R O R=======
+Error in <TKey::ReadObjWithBuffer>: Unknown class 
+Info in <TFile::GetStreamerInfoList>: cannot find the StreamerInfo record in file /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root
+Error when running the combination:
+	Could not open file /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt1rho2_vs_pt2rho2/baseline.root
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Toy toy_1 not found in higgsCombineToys.GenerateOnly.mH125.123687.root. List follows:
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Toy toy_1 not found in higgsCombineToys.GenerateOnly.mH125.123687.root. List follows:
+cp: cannot create regular file 'baseline.root': File exists
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels

@@ -1,0 +1,64 @@
+Error in <TFile::ReadBuffer>: error reading all requested bytes from file /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt5rho4_vs_pt5rho5/baseline.root, got 0 of 528228
+Error in <TKey::ReadFile>: Failed to read data.
+Could not find workspace 'w' in file /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt5rho4_vs_pt5rho5/baseline.root
+Error when running the combination:
+	Missing Workspace
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Toy toy_1 not found in higgsCombineToys.GenerateOnly.mH125.124287.root. List follows:
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Toy toy_1 not found in higgsCombineToys.GenerateOnly.mH125.124287.root. List follows:
+cp: cannot stat '../pt6rho4/higgsCombineSnapshot.MultiDimFit.mH125.root': No such file or directory
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+RooSimultaneousOpt: number of channel masks must equal number of channels
+Error when running the combination:
+	File /users/h2/akobert/CMSSW_10_2_13/src/F-Test/DataTest/2018/pt5rho4_vs_pt6rho4/alternative.root does not exist
